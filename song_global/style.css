@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    font-family: 'Inter';
+    font-weight: 300
+}
+
+.st-emotion-cache-zy6yx3 {
+    padding: 1.5rem 5rem 10rem;
+}
+
+@media (max-width: 900px) {
+    [data-testid="stColumn"] {
+            min-width: calc(100% - 1.5rem);
+    }
+}
+
+[data-testid="stColumn"]:nth-child(2) [data-testid="stLayoutWrapper"] {
+    overflow: hidden !important;
+}
+
+[data-testid="stColumn"]:nth-child(2) > div div {
+    border: 0px;
+}
+
+iframe {
+    border-radius: 15px;
+    max-height: 400px !important;
+    max-width: 700px !important;
+}
+
