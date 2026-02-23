@@ -1,0 +1,967 @@
+artist_name,number_of_songs,avg_track_popularity,avg_track_duration,artist_popularity,explicit_songs,artist_labels,explicit_dependency
+Taylor Swift,324,60.05,3.9,100,46,"['country', 'pop', 'indie', 'folk']",14.2
+Bad Bunny,56,73.34,3.65,95,45,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",80.36
+Drake,84,65.89,3.88,95,73,['rap'],86.9
+The Weeknd,141,60.79,4.38,93,70,"['r&b pop', 'alternative r&b', 'hip hop', 'synthpop']",49.65
+Justin Bieber,55,66.27,3.0,91,10,"['pop', 'contemporary r&b']",18.18
+Sabrina Carpenter,34,79.5,3.05,91,23,['pop'],67.65
+Ariana Grande,94,63.91,3.32,90,39,['pop'],41.49
+Rihanna,52,65.58,3.88,90,17,"['pop', 'r&b']",32.69
+Billie Eilish,61,73.89,3.5,90,6,"['alternative pop', 'electropop', 'dark pop']",9.84
+Bruno Mars,27,66.41,3.68,90,1,"['pop', 'rnb', 'male vocalists', 'r&b', 'slow jams']",3.7
+Kanye West,23,66.35,4.16,89,16,['rap'],69.57
+Kendrick Lamar,11,72.55,3.43,89,8,"['hip hop', 'west coast hip hop']",72.73
+Travis Scott,33,69.91,3.61,89,30,['rap'],90.91
+Fuerza Regida,2,87.0,3.01,89,2,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'sierreño', 'banda', 'electro corridos', 'sad sierreño']",100.0
+Tate McRae,48,66.25,2.84,88,29,['pop'],60.42
+Eminem,67,56.25,4.44,88,66,"['rap', 'hip hop']",98.51
+Ed Sheeran,53,60.28,3.89,88,1,['soft pop'],1.89
+Future,24,66.17,3.59,88,24,['rap'],100.0
+Morgan Wallen,5,51.4,2.92,88,2,['country'],40.0
+Linkin Park,38,66.08,3.32,88,3,"['nu metal', 'rap metal', 'rock', 'alternative metal']",7.89
+Coldplay,39,67.21,4.31,88,0,"['rock', 'alternative', 'britpop', 'alternative rock', 'indie']",0.0
+Lana Del Rey,99,63.17,4.42,88,26,"['alternative pop', 'indie pop']",26.26
+Lady Gaga,70,57.19,3.86,88,11,"['art pop', 'pop']",15.71
+Olivia Dean,3,90.33,3.12,88,0,['pop soul'],0.0
+David Guetta,27,60.96,3.27,87,4,['edm'],14.81
+KAROL G,9,68.78,3.17,87,5,"['reggaeton', 'latin', 'urbano latino']",55.56
+HUNTR/X,4,93.75,3.34,87,0,['k-pop'],0.0
+SZA,16,70.88,3.03,87,10,['r&b'],62.5
+Chris Brown,15,59.33,3.86,87,11,['r&b'],73.33
+J Balvin,4,66.25,3.58,86,0,"['reggaeton', 'latin']",0.0
+"Tyler, The Creator",8,68.25,3.18,86,8,"['hip-hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",100.0
+Lil Wayne,8,36.62,4.33,86,6,"['rap', 'hip hop']",75.0
+Post Malone,83,61.7,3.33,86,59,"['pop', 'hip hop', 'country']",71.08
+Doja Cat,30,68.67,3.34,86,29,"['pop', 'rnb', 'rap', 'hip-hop', 'hip hop']",96.67
+Playboi Carti,45,64.71,2.8,86,45,['rage rap'],100.0
+Radiohead,40,62.28,4.13,85,1,"['art rock', 'alternative rock']",2.5
+Don Toliver,4,60.25,3.41,85,2,"['rap', 'trap', 'hip-hop', 'rnb', 'hip hop']",50.0
+Juice WRLD,7,60.86,3.59,85,7,"['melodic rap', 'emo rap']",100.0
+Dua Lipa,42,55.81,3.39,85,4,['pop'],9.52
+Olivia Rodrigo,68,60.57,3.05,85,25,"['pop rock', 'alternative pop', 'pop punk']",36.76
+Daddy Yankee,2,37.5,3.28,85,0,"['reggaeton', 'latin']",0.0
+Maroon 5,28,56.89,3.57,85,7,['pop'],25.0
+Michael Jackson,21,69.05,4.55,85,0,"['pop', '80s', 'dance', 'soul', 'funk']",0.0
+sombr,15,79.67,3.59,85,0,"['indie', 'alternative', 'rock', 'singer-songwriter', 'indie rock']",0.0
+BTS,30,57.43,3.92,85,0,['k-pop'],0.0
+Imagine Dragons,17,56.29,3.21,85,0,"['indie', 'indie rock', 'alternative', 'rock', 'indie pop']",0.0
+Shakira,43,38.6,3.35,85,0,['latin pop'],0.0
+Gunna,10,56.3,2.72,85,10,['melodic rap'],100.0
+Daniel Caesar,3,29.33,4.52,85,1,"['rnb', 'soul', 'neo-soul', 'canadian', 'alternative rnb']",33.33
+21 Savage,7,62.29,4.14,84,7,"['trap', 'hip-hop', 'rap', 'hip hop', 'atlanta']",100.0
+Arctic Monkeys,10,79.8,3.58,84,0,"['indie', 'garage rock']",0.0
+Frank Ocean,6,68.83,5.03,84,4,"['rnb', 'soul', 'hip-hop', 'r&b', 'ofwgkta']",66.67
+Tame Impala,13,75.0,4.61,84,4,"['neo-psychedelic', 'indie']",30.77
+Lil Baby,15,63.13,2.97,84,15,"['rap', 'hip-hop', 'hip hop', 'trap', 'atlanta']",100.0
+Zach Bryan,2,84.0,3.51,84,0,"['country', 'red dirt']",0.0
+Alex Warren,5,83.4,3.11,84,0,"['folk', 'pop', 'singer-songwriter', 'indie', 'indie folk']",0.0
+Nicki Minaj,18,53.56,3.51,84,16,"['hip-hop', 'rap', 'rnb', 'pop', 'hip hop']",88.89
+Calvin Harris,21,69.52,3.65,84,5,['edm'],23.81
+Beyoncé,49,64.71,3.96,84,25,"['rnb', 'pop', 'female vocalists', 'soul', 'hip-hop']",51.02
+Pitbull,22,58.14,3.59,84,6,"['hip-hop', 'rap', 'reggaeton', 'hip hop', 'crunk']",27.27
+YoungBoy Never Broke Again,5,73.4,3.07,84,5,"['rap', 'trap', 'hip-hop', 'louisiana', 'gangsta rap']",100.0
+Young Thug,4,69.5,3.94,84,4,"['rap', 'melodic rap', 'trap']",100.0
+Metro Boomin,9,75.0,3.32,84,9,"['trap', 'rap', 'hip-hop', 'hip hop', 'southern hip hop']",100.0
+TWICE,2,85.0,2.91,83,0,['k-pop'],0.0
+Benson Boone,7,79.0,3.01,83,0,"['pop', 'rock', 'pop rock', 'my top songs', 'singer-songwriter']",0.0
+PARTYNEXTDOOR,4,55.0,3.05,83,3,"['dark r&b', 'r&b', 'trap soul']",75.0
+Kali Uchis,8,74.62,3.4,83,0,"['rnb', 'neo-soul', 'soul', 'alternative rnb', 'pop']",0.0
+Katy Perry,56,55.75,3.85,83,3,['pop'],5.36
+One Direction,27,60.41,3.53,83,0,"['pop', 'british', 'boyband', 'one direction', 'x factor']",0.0
+Red Hot Chili Peppers,9,80.89,4.51,83,0,"['funk rock', 'alternative rock', 'rock']",0.0
+The Marías,4,77.25,3.29,83,0,['bedroom pop'],0.0
+$uicideboy$,2,31.5,2.62,83,2,"['emo rap', 'horrorcore', 'cloud rap', 'trap metal', 'underground hip hop']",100.0
+Teddy Swims,3,84.67,3.37,83,0,"['soul', 'singer-songwriter', 'pop', 'rnb', 'neo-soul']",0.0
+The Neighbourhood,77,53.3,3.93,83,17,"['indie', 'indie rock', 'indie pop', 'rock', 'alternative']",22.08
+Fleetwood Mac,8,69.75,4.36,83,0,"['classic rock', 'yacht rock', 'soft rock']",0.0
+Twenty One Pilots,14,68.07,3.85,83,0,"['electronic', 'alternative', 'rap', 'indie pop', 'indie']",0.0
+Luke Combs,4,77.25,3.84,83,0,['country'],0.0
+Cigarettes After Sex,9,14.44,4.58,83,1,['dream pop'],11.11
+XXXTENTACION,8,77.75,2.09,83,7,['emo rap'],87.5
+Adele,41,58.78,4.5,83,0,['soft pop'],0.0
+Lil Peep,60,42.9,2.83,82,59,"['emo rap', 'cloud rap']",98.33
+Gorillaz,2,86.0,3.9,82,0,"['trip-hop', 'rock', 'electronic', 'alternative rock', 'fictional', 'hip-hop', 'british', 'hip hop', 'uk', 'fictitious artist', 'electronica', 'synth-pop', 'electropop', 'producer', 'art rock', 'leftfield', 'trip rock', 'alternative hip-hop', 'alternative dance', 'uk garage', 'english', 'trip hop', 'parlophone', 'producteur', 'rock and indie', 'gorillaz', 'virtual band', 'art pop', 'fictitious-artist', 'fabloo', 'vyrzukhisuc-artiest']",0.0
+J. Cole,9,67.44,4.15,82,9,['rap'],100.0
+The Beatles,20,56.9,2.89,82,0,"['classic rock', 'psychedelic rock']",0.0
+JAY-Z,10,53.4,4.42,82,10,"['hip hop', 'east coast hip hop', 'rap']",100.0
+Sia,19,68.42,3.72,82,0,"['female vocalists', 'indie', 'chillout', 'trip-hop', 'downtempo']",0.0
+50 Cent,6,60.5,3.56,82,5,"['east coast hip hop', 'old school hip hop']",83.33
+Lil Uzi Vert,3,66.0,2.97,82,3,['melodic rap'],100.0
+Khalid,9,66.0,3.38,82,2,"['soul', 'pop', 'rnb', 'alternative rnb', 'alternative']",22.22
+KATSEYE,3,88.67,2.57,82,1,['k-pop'],33.33
+Charli xcx,29,65.59,2.86,82,7,"['hyperpop', 'art pop']",24.14
+Chappell Roan,18,73.61,3.59,82,5,"['pop', 'indie pop', 'synthpop', 'electropop', 'queer']",27.78
+Laufey,2,80.5,2.82,82,0,"['jazz', 'bossa nova', 'female vocalists', 'pop', 'icelandic']",0.0
+A$AP Rocky,7,73.86,3.59,82,7,['rap'],100.0
+Noah Kahan,2,79.5,3.84,82,0,"['indie', 'folk', 'singer-songwriter', 'acoustic', 'vermont']",0.0
+Hozier,11,53.55,4.11,82,0,"['blues', 'indie', 'soul', 'singer-songwriter', 'irish']",0.0
+Gracie Abrams,8,76.38,3.42,82,3,"['pop', 'indie pop', 'my top songs', 'indie', 'female vocalists']",37.5
+Queen,6,65.33,3.9,82,0,"['classic rock', 'rock', 'glam rock']",0.0
+Wiz Khalifa,4,56.0,3.75,81,2,['rap'],50.0
+Akon,4,56.25,3.89,81,3,"['rnb', 'hip-hop', 'rap', 'pop', 'hip hop']",75.0
+Daft Punk,2,78.5,5.15,81,0,"['french house', 'electronic', 'electro']",0.0
+Justin Timberlake,10,72.4,5.84,81,3,"['pop', 'rnb', 'dance', 'male vocalists', 'hip-hop']",30.0
+Mac Miller,2,71.5,5.72,81,1,"['hip-hop', 'rap', 'underground hip-hop', 'hip hop', 'pittsburgh']",50.0
+Cardi B,22,64.77,3.49,81,22,"['hip-hop', 'rap', 'trap', 'hip hop', 'american']",100.0
+Nirvana,91,32.45,3.65,81,2,"['grunge', 'rock']",2.2
+OneRepublic,10,66.1,3.47,81,1,['soft pop'],10.0
+Black Eyed Peas,17,44.47,4.33,81,5,"['hip-hop', 'pop', 'rnb', 'rap', 'hip hop']",29.41
+Deftones,3,75.0,4.7,81,0,"['nu metal', 'alternative metal', 'rap metal', 'shoegaze', 'rock']",0.0
+Britney Spears,24,61.42,3.71,81,1,['pop'],4.17
+Miley Cyrus,62,50.6,3.45,81,14,"['country pop', 'rock', 'hip hop', 'experimental']",22.58
+Joji,7,57.0,3.28,81,3,"['lo-fi', 'rnb', 'hip-hop', 'alternative rnb', 'japanese']",42.86
+RAYE,6,43.83,4.23,81,5,"['pop', 'rnb', 'british', 'female vocalists', 'my top songs']",83.33
+Selena Gomez,20,56.7,3.44,81,0,"['pop', 'female vocalists', 'disney', 'pop rock', 'dance']",0.0
+Sean Paul,4,69.75,3.69,81,0,['dancehall'],0.0
+BLACKPINK,5,56.6,2.95,81,0,['k-pop'],0.0
+JENNIE,18,70.28,2.77,81,14,['k-pop'],77.78
+Shawn Mendes,23,58.78,3.24,81,1,"['pop', 'canadian', 'folk', 'male vocalists', 'acoustic']",4.35
+Sam Smith,39,37.59,3.25,81,0,['soft pop'],0.0
+Metallica,4,37.25,6.34,81,0,"['metal', 'thrash metal', 'rock', 'heavy metal', 'hard rock']",0.0
+System Of A Down,6,55.17,3.54,80,0,"['nu metal', 'metal', 'alternative metal', 'rap metal', 'rock']",0.0
+Saja Boys,2,93.5,2.85,80,0,"['k-pop', 'pop', 'korean', 'soundtrack', 'kpop']",0.0
+The Chainsmokers,19,57.74,3.62,80,3,"['electronic', 'pop', 'house', 'electro house', 'dance']",15.79
+Tiësto,9,60.22,2.78,80,1,"['edm', 'trance', 'big room']",11.11
+Trippie Redd,2,2.0,3.6,80,2,['melodic rap'],100.0
+Guns N' Roses,6,19.33,6.13,80,4,"['rock', 'glam metal', 'hard rock', 'classic rock']",66.67
+Halsey,19,40.89,3.42,80,6,"['pop', 'indie pop', 'indie', 'alternative', 'female vocalists']",31.58
+Green Day,6,67.67,6.43,80,4,"['punk', 'pop punk']",66.67
+Harry Styles,31,66.29,3.55,80,0,"['pop rock', 'soft rock', 'synthpop']",0.0
+Dave,2,77.0,3.67,80,2,"['grime', 'uk grime', 'uk drill', 'drill']",100.0
+Snoop Dogg,4,68.25,3.74,80,4,"['g-funk', 'west coast hip hop', 'gangster rap', 'hip hop', 'old school hip hop', 'rap']",100.0
+Bryson Tiller,4,79.0,3.34,80,3,"['trap soul', 'r&b']",75.0
+Oasis,5,43.6,4.28,80,0,"['britpop', 'madchester']",0.0
+Elton John,5,67.4,3.6,80,0,"['pop', 'classic rock', 'singer-songwriter', 'rock', 'piano']",0.0
+USHER,7,48.14,4.02,80,0,['r&b'],0.0
+Lorde,15,59.47,3.88,80,1,"['pop', 'indie pop', 'electronic', 'indie', 'new zealand']",6.67
+AC/DC,3,84.67,4.2,80,0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",0.0
+Marshmello,8,66.25,2.89,80,1,['edm'],12.5
+Ne-Yo,6,52.5,3.83,80,0,"['rnb', 'soul', 'hip-hop', 'pop', 'ne-yo']",0.0
+Timbaland,6,69.5,3.71,79,0,"['hip-hop', 'rnb', 'rap', 'pop', 'hip hop']",0.0
+Tory Lanez,4,71.0,2.69,79,1,"['rnb', 'hip-hop', 'canadian', 'rap', 'trap']",25.0
+Jimin,2,80.0,3.18,79,0,['k-pop'],0.0
+TV Girl,16,72.25,3.4,79,2,"['indie pop', 'lo-fi', 'indie', 'chillwave', 'pop']",12.5
+Avicii,14,53.14,3.55,79,1,['edm'],7.14
+James Arthur,11,70.91,3.64,79,1,['soft pop'],9.09
+Flo Rida,13,70.23,3.7,79,0,"['hip-hop', 'rap', 'hip hop', 'dirty south', 'southern rap']",0.0
+Yeat,3,69.67,3.14,79,3,['rage rap'],100.0
+d4vd,6,58.33,3.14,79,0,"['pop', 'rnb', 'rock', 'dream pop', 'indie pop']",0.0
+ABBA,6,73.0,4.25,79,0,"['pop', 'disco', '70s', 'swedish', '80s']",0.0
+Mac DeMarco,5,80.2,3.19,79,0,"['indie', 'lo-fi indie']",0.0
+Kodak Black,7,64.29,3.57,79,5,"['trap', 'rap', 'hip-hop', 'hip hop', 'florida']",71.43
+Lewis Capaldi,12,67.67,3.42,79,0,['soft pop'],0.0
+Lil Tecca,3,72.67,2.58,79,3,"['melodic rap', 'rap']",100.0
+Charlie Puth,10,54.9,3.22,79,0,"['soft pop', 'pop']",0.0
+The Kid LAROI,11,56.09,2.51,79,8,"['rap', 'hip-hop', 'emo rap', 'australian', 'trap']",72.73
+Pharrell Williams,3,50.33,3.9,79,1,"['hip-hop', 'rnb', 'rap', 'hip hop', 'pop']",33.33
+Paramore,10,69.1,3.88,79,0,"['pop punk', 'emo']",0.0
+Pink Floyd,15,69.87,5.8,79,2,"['progressive rock', 'psychedelic rock', 'classic rock', 'art rock', 'rock']",13.33
+Kid Cudi,2,76.0,3.04,79,1,"['hip-hop', 'rap', 'alternative rap', 'hip hop', 'house']",50.0
+Chase Atlantic,15,50.27,3.66,79,8,"['rnb', 'indie', 'australian', 'rock', 'alternative']",53.33
+Jung Kook,5,63.8,3.25,79,3,['k-pop'],60.0
+Central Cee,4,70.5,2.17,79,4,"['uk drill', 'drill', 'uk grime']",100.0
+Conan Gray,6,72.67,3.69,79,0,"['pop', 'indie pop', 'indie', 'my top songs', 'american']",0.0
+Mariah Carey,2,79.5,4.02,79,0,['christmas'],0.0
+Slipknot,2,77.5,4.96,78,0,"['nu metal', 'metal', 'alternative metal', 'rap metal', 'heavy metal']",0.0
+bbno$,2,39.5,2.1,78,2,"['rap', 'hip-hop', 'canadian', 'hip hop', 'canada']",100.0
+beabadoobee,3,77.33,2.61,78,0,['bedroom pop'],0.0
+Alan Walker,15,54.0,3.04,78,2,"['electronic', 'house', 'edm', 'dance', 'norwegian']",13.33
+Alicia Keys,4,50.25,4.06,78,0,"['r&b', 'neo soul']",0.0
+GIVĒON,2,69.0,3.26,78,0,['r&b'],0.0
+Billy Joel,3,81.67,4.19,78,0,['soft rock'],0.0
+The Smiths,7,68.57,3.13,78,0,"['new wave', 'madchester', 'jangle pop']",0.0
+Anitta,2,66.5,3.23,78,0,"['brazilian pop', 'funk pop', 'brazilian funk', 'funk carioca']",0.0
+Bon Jovi,6,51.83,4.53,78,0,"['glam metal', 'rock']",0.0
+Ellie Goulding,11,58.0,3.81,78,1,"['female vocalists', 'electronic', 'british', 'indie', 'indie pop']",9.09
+ROSÉ,3,83.33,2.76,78,0,['k-pop'],0.0
+PinkPantheress,11,64.27,2.21,78,2,['bedroom pop'],18.18
+Miguel,4,72.75,3.32,78,1,['r&b'],25.0
+P!nk,14,49.43,3.71,78,8,"['pop', 'pop rock', 'female vocalists', 'rock', 'female']",57.14
+Nickelback,4,54.5,4.05,78,0,"['post-grunge', 'rock']",0.0
+Kehlani,5,72.8,3.22,78,3,"['rnb', 'pop', 'soul', 'female vocalists', 'hip-hop']",60.0
+Kesha,9,51.89,3.37,78,0,"['electronic', 'pop', 'dance', 'electropop', 'indie pop', 'dance-pop', 'pop rock', 'europop', 'pop rap', 'singer/songwriter', 'a filk artist', 'crunkcore', 'lgbtq']",0.0
+Dr. Dre,6,73.17,4.0,78,6,"['old school hip hop', 'g-funk', 'gangster rap', 'west coast hip hop', 'hip hop', 'rap']",100.0
+Mitski,7,42.71,2.76,78,0,"['indie rock', 'indie', 'indie pop', 'singer-songwriter', 'dream pop']",0.0
+Camila Cabello,20,55.5,3.38,78,0,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",0.0
+Lil Durk,3,61.67,3.34,78,3,"['chicago drill', 'drill']",100.0
+Childish Gambino,6,14.0,4.86,78,5,"['hip-hop', 'rap', 'hip hop', 'indie', 'underground hip-hop']",83.33
+Clairo,4,52.25,2.98,78,0,['bedroom pop'],0.0
+Limp Bizkit,3,80.0,3.93,78,2,"['nu metal', 'rap metal', 'alternative metal', 'rap rock']",66.67
+Madonna,3,70.0,4.1,78,0,"['pop', 'dance', 'female vocalists', '80s', 'electronic']",0.0
+2Pac,4,72.5,4.91,78,4,"['old school hip hop', 'gangster rap', 'west coast hip hop', 'g-funk', 'hip hop']",100.0
+Tyga,3,47.33,3.69,78,3,"['hip-hop', 'rap', 'hip hop', 'tyga', 'west coast']",100.0
+mgk,36,53.56,2.64,78,35,"['rap', 'hip-hop', 'hip hop', 'pop punk', 'cleveland']",97.22
+ZAYN,8,64.5,3.58,77,3,"['pop', 'rnb', 'british', 'male vocalists', 'sexy']",37.5
+Tyla,4,72.5,2.9,77,0,['afrobeats'],0.0
+A Boogie Wit da Hoodie,3,74.67,2.66,77,3,['melodic rap'],100.0
+Fall Out Boy,3,73.33,3.43,77,0,"['emo', 'pop punk']",0.0
+Florence + The Machine,9,61.0,3.94,77,1,['baroque pop'],11.11
+DaBaby,3,71.0,2.8,77,3,"['rap', 'hip-hop', 'trap', 'hip hop', 'american']",100.0
+Lola Young,7,73.57,3.9,77,4,"['pop', 'rnb', 'indie pop', 'soul', 'my top songs']",57.14
+Enrique Iglesias,4,36.75,3.96,77,1,"['latin pop', 'latin']",25.0
+The Rolling Stones,3,70.0,4.46,77,0,"['classic rock', 'rock']",0.0
+Steve Lacy,5,62.0,3.23,77,3,"['free jazz', 'jazz', 'saxophone', 'rnb', 'avant-garde jazz']",60.0
+Sade,17,65.71,4.59,77,0,"['downtempo', 'pop', 'jazz', 'british', 'uk', 'soul', 'quiet storm', 'jazz pop', 'smooth jazz', 'english', 'trip hop', 'classic pop and rock', 'female singer', 'am', 'pop soul', 'smooth soul', 'sophisti-pop', 'contemporary r&b']",0.0
+Dire Straits,2,43.0,5.8,77,0,['classic rock'],0.0
+Diplo,5,47.2,2.38,77,5,['moombahton'],100.0
+Bring Me The Horizon,2,64.5,3.62,77,2,"['metalcore', 'emo', 'screamo', 'rock', 'post-hardcore']",100.0
+ROSALÍA,7,55.43,2.82,77,1,['latin'],14.29
+Demi Lovato,13,59.77,3.44,77,7,"['pop', 'pop rock', 'female vocalists', 'disney', 'guilty pleasure']",53.85
+Offset,4,50.25,3.84,77,3,"['trap', 'rap', 'hip-hop', 'travis scott', 'hip hop']",75.0
+NewJeans,2,78.5,2.83,77,0,['k-pop'],0.0
+Nelly Furtado,6,57.5,3.9,77,0,"['pop', 'female vocalists', 'folk', 'canadian', 'singer-songwriter']",0.0
+DJ Snake,7,64.43,3.65,77,2,"['trap', 'electronic', 'dance', 'edm', 'french']",28.57
+Creedence Clearwater Revival,2,72.5,2.86,77,0,"['classic rock', 'southern rock', 'country rock']",0.0
+Hans Zimmer,50,33.18,4.12,77,0,['soundtrack'],0.0
+Zara Larsson,5,47.2,3.39,77,1,"['pop', 'swedish', 'female vocalists', 'indie', 'sweden']",20.0
+Three Days Grace,8,71.62,3.56,77,1,"['post-grunge', 'rock']",12.5
+Ava Max,6,51.17,2.88,77,0,"['pop', 'electropop', 'female vocalists', 'american', 'usa']",0.0
+Empire Of The Sun,2,84.5,3.88,77,0,"['electronic', 'synthpop', 'australian', 'electronica', 'synth pop']",0.0
+League of Legends,2,20.0,4.43,76,0,"['soundtrack', 'game music', 'all', 'video game music', 'instrumental']",0.0
+Gucci Mane,5,66.2,3.36,76,5,"['southern hip hop', 'rap', 'trap']",100.0
+Tom Odell,4,74.75,3.76,76,2,"['indie', 'folk', 'british', 'singer-songwriter', 'piano']",50.0
+blink-182,5,57.6,3.19,76,1,"['pop punk', 'punk', 'rock', 'skate punk', 'emo']",20.0
+5 Seconds of Summer,7,59.29,3.26,76,1,"['pop punk', 'pop rock', 'pop', 'australian', 'rock']",14.29
+Ludacris,2,55.5,3.1,76,2,['southern hip hop'],100.0
+Christina Aguilera,6,57.5,4.14,76,0,"['pop', 'female vocalists', 'soul', 'rnb', 'dance']",0.0
+Lord Huron,2,84.5,3.47,76,0,"['folk', 'psychedelic', 'indie', 'indie pop', 'indie folk']",0.0
+Xavi,2,72.0,2.74,76,1,"['corridos tumbados', 'corrido', 'corridos bélicos', 'sad sierreño', 'música mexicana', 'banda', 'sierreño']",50.0
+Kygo,8,55.25,3.6,76,0,['tropical house'],0.0
+Kings of Leon,2,81.5,3.61,76,0,"['rock', 'indie', 'indie rock', 'alternative', 'southern rock']",0.0
+Arcane,5,65.2,2.85,76,1,"['progressive metal', 'thrash metal', 'australian', 'progressive rock', 'progressive thrash metal']",20.0
+Alok,7,65.71,2.53,76,1,"['brazilian bass', 'electronic', 'slap house', 'electro house']",14.29
+The Cranberries,5,44.0,4.57,76,0,"['rock', 'alternative', 'alternative rock', 'female vocalists', 'irish']",0.0
+Doechii,3,75.0,3.82,76,3,"['rap', 'hip hop', 'rnb', 'hip-hop', 'pop rap']",100.0
+Bizarrap,3,74.33,3.34,76,1,"['argentine trap', 'trap latino', 'urbano latino']",33.33
+Muse,6,55.83,4.14,76,0,"['alternative rock', 'rock']",0.0
+Phoebe Bridgers,4,66.5,4.1,76,0,"['singer-songwriter', 'folk', 'indie folk', 'indie', 'indie rock']",0.0
+Jason Derulo,17,61.76,3.47,76,2,"['rock', 'pop', 'dance', 'hip hop', 'electropop', 'dance-pop', 'latin', 'english', 'african', 'r&b', 'contemporary r&b', '2010s', 'afro house', 'amapiano']",11.76
+Avril Lavigne,24,47.92,3.63,76,7,"['pop rock', 'pop', 'rock', 'female vocalists', 'canadian']",29.17
+Ravyn Lenae,2,86.5,3.55,76,0,"['alternative r&b', 'indie soul']",0.0
+Quavo,3,61.0,2.94,76,2,"['rap', 'hip-hop', 'trap', 'atlanta', 'migos']",66.67
+Panic! At The Disco,2,75.0,3.14,76,1,['emo'],50.0
+Polo G,2,64.5,2.81,76,2,"['rap', 'hip-hop', 'trap', 'hip hop', 'american']",100.0
+Måneskin,26,61.62,3.16,76,8,"['rock', 'glam rock', 'italian', 'alternative rock', 'italy']",30.77
+NIKI,3,53.33,3.49,76,1,['indonesian r&b'],33.33
+Megan Thee Stallion,21,52.0,2.98,76,21,"['rap', 'hip-hop', 'trap', 'hip hop', 'american']",100.0
+Jessie Murph,2,37.0,2.32,76,0,"['pop', 'country', 'passion of discovery', 'indie', 'alabama']",0.0
+The Killers,5,51.2,3.62,76,0,['alternative rock'],0.0
+The Lumineers,2,5.0,2.68,76,0,"['folk pop', 'indie folk']",0.0
+The 1975,6,57.67,4.48,76,3,"['indie', 'indie rock', 'british', 'alternative', 'rock']",50.0
+Summer Walker,4,55.75,3.37,76,3,['r&b'],75.0
+Tinashe,2,74.0,3.36,76,1,['alternative r&b'],50.0
+The Goo Goo Dolls,2,77.5,4.82,76,0,"['rock', 'alternative rock', 'punk rock', 'power pop', 'synth-pop', 'electropop', 'hardcore punk', 'post-grunge', 'soft rock', 'acoustic rock', 'jangle pop', 'pop rock', 'pop punk', 'classic pop and rock', ""'""]",0.0
+Bebe Rexha,5,58.4,2.86,76,0,"['pop', 'female vocalists', 'electronic', 'singer-songwriter', 'alternative']",0.0
+Backstreet Boys,3,76.67,3.78,76,0,"['pop', 'american', 'electropop', 'dance-pop', 'pop rock', 'boy band', 'boy group', 'pop and chart', 'teen pop', 'incomplete remix', 'alliteration']",0.0
+Korn,3,52.0,4.03,75,2,"['nu metal', 'metal', 'rap metal', 'alternative metal']",66.67
+Lost Frequencies,2,64.5,2.38,75,0,['tropical house'],0.0
+Foo Fighters,3,78.33,4.3,75,0,"['rock', 'post-grunge', 'alternative rock', 'grunge']",0.0
+Aerosmith,14,34.43,4.43,75,0,"['classic rock', 'rock']",0.0
+LISA,5,71.0,2.91,75,3,['k-pop'],60.0
+Melanie Martinez,11,64.55,3.58,75,5,"['pop', 'indie', 'indie pop', 'female vocalists', 'alternative']",45.45
+Pop Smoke,5,73.6,2.98,75,5,"['brooklyn drill', 'new york drill', 'drill']",100.0
+Shaboozey,2,69.0,3.07,75,1,"['country', 'rap', 'pop', 'hip-hop', 'pop rap']",50.0
+Jonas Brothers,8,57.38,3.04,75,0,"['pop', 'pop rock', 'disney', 'rock', 'pop punk']",0.0
+Black Sabbath,3,27.33,3.83,75,0,"['metal', 'heavy metal', 'rock', 'stoner rock', 'doom metal', 'hard rock']",0.0
+Pearl Jam,2,67.5,4.62,75,1,"['grunge', 'rock', 'post-grunge']",50.0
+Robin Schulz,3,70.0,3.18,75,0,['tropical house'],0.0
+Bryan Adams,2,39.5,6.24,75,0,"['rock', 'british', 'canadian', 'singer-songwriter', 'new wave', 'hard rock', 'power pop', 'classic rock', 'soft rock', 'acoustic rock', 'adult contemporary', 'pop rock', 'arena rock', 'album oriented rock', 'heartland rock', 'aor', 'rock and indie', '2008 universal fire victim']",0.0
+Dean Lewis,7,69.86,3.18,75,2,"['indie', 'pop', 'australian', 'singer-songwriter', 'indie pop']",28.57
+Swedish House Mafia,2,43.0,3.72,75,0,['edm'],0.0
+Amy Winehouse,3,68.33,3.49,75,3,"['pop', 'jazz', 'blues', 'british', 'uk', 'easy listening', 'neo-soul', 'soul', 'crossover jazz', 'vocal jazz', 'neo soul', 'jazz pop', 'english', 'jazz and blues', 'pop soul', 'i heard love is blind', 'death by overdose', 'r&b', 'contemporary r&b', 'rhythm & blues', 'frank', '27 club', 'death by drug overdose']",100.0
+Anne-Marie,2,73.5,2.7,75,1,"['pop', 'rnb', 'british', 'electronic', 'female vocalists']",50.0
+JVKE,2,40.0,3.48,75,0,"['indie pop', 'pop', 'indie', 'my top songs', 'american']",0.0
+Evanescence,9,60.44,3.76,75,0,['alternative metal'],0.0
+Jack Harlow,5,53.8,3.0,75,5,"['rap', 'hip-hop', 'trap', 'hip hop', 'pop rap']",100.0
+Jhené Aiko,2,72.5,3.91,75,2,['r&b'],100.0
+The Notorious B.I.G.,5,67.6,4.58,75,5,"['old school hip hop', 'gangster rap', 'east coast hip hop', 'hip hop']",100.0
+Gigi Perez,2,45.5,3.53,75,0,"['bedroom pop', 'singer-songwriter', 'indie', 'folk', 'my top songs']",0.0
+Addison Rae,10,71.1,3.26,74,0,"['pop', 'american', 'electropop', 'alt-pop', 'queen of pop']",0.0
+Alex G,2,17.0,3.34,74,1,"['lo-fi', 'singer-songwriter', 'indie rock', 'indie', 'indie folk']",50.0
+Vance Joy,3,38.0,3.5,74,0,['folk pop'],0.0
+Odetari,2,74.0,2.17,74,2,"['hyperpop', 'nightcore']",100.0
+Roddy Ricch,3,70.33,3.19,74,3,['melodic rap'],100.0
+B.o.B,4,65.0,3.57,74,1,"['hip-hop', 'rap', 'hip hop', 'dirty south', 'atlanta']",25.0
+Skrillex,9,45.22,5.23,74,2,"['dubstep', 'edm', 'electro', 'electronic']",22.22
+Becky G,3,70.67,3.45,74,0,"['reggaeton', 'latin']",0.0
+G-Eazy,6,59.83,4.41,74,6,"['hip-hop', 'rap', 'hip hop', 'american', 'lil wayne']",100.0
+The Script,7,68.0,3.84,74,2,"['pop rock', 'rock', 'irish', 'pop', 'acoustic']",28.57
+Artemas,14,54.14,2.35,74,3,"['pop', 'british', 'rnb', 'indie', 'dark pop']",21.43
+The Strokes,6,71.17,3.71,74,0,"['garage rock', 'indie rock', 'alternative rock']",0.0
+Madison Beer,7,63.0,3.17,74,1,"['pop', 'female vocalists', 'rnb', 'indie', 'my top songs']",14.29
+Dominic Fike,4,61.75,2.88,74,0,"['indie', 'indie pop', 'pop', 'alternative', 'american']",0.0
+2 Chainz,2,63.5,4.02,74,1,"['rap', 'southern hip hop']",50.0
+Disturbed,7,61.29,3.95,74,1,"['metal', 'nu metal', 'alternative metal', 'rap metal', 'hard rock']",14.29
+Leon Thomas,2,69.5,2.99,74,2,"['jazz', 'soul', 'funk', 'spiritual jazz', 'free jazz']",100.0
+Lizzy McAlpine,4,54.0,3.36,74,0,"['indie pop', 'folk', 'indie folk', 'my top songs', 'usa']",0.0
+Luke Bryan,16,50.62,3.65,74,0,"['country', 'acoustic country']",0.0
+Jason Aldean,11,58.82,3.63,74,0,"['country', 'acoustic country']",0.0
+Meghan Trainor,5,71.2,3.14,74,1,"['pop', 'female vocalists', 'soul', 'american', 'jazz']",20.0
+Rex Orange County,2,63.5,3.33,74,1,['bedroom pop'],50.0
+Myles Smith,3,76.33,3.04,74,0,"['folk', 'british', 'guitar', 'americana', 'alternative']",0.0
+Nelly,4,64.5,4.07,74,3,"['hip-hop', 'rap', 'rnb', 'hip hop', 'nelly']",75.0
+Big Sean,3,65.67,4.03,74,3,"['hip-hop', 'rap', 'hip hop', 'good music', 'big sean']",100.0
+Martin Garrix,6,69.33,3.32,74,1,"['edm', 'progressive house', 'electronica']",16.67
+Clean Bandit,8,69.0,3.64,74,0,"['electronic', 'indie', 'british', 'experimental', 'electronica']",0.0
+Migos,5,28.4,4.89,74,5,['trap'],100.0
+Jennifer Lopez,36,37.11,3.98,74,2,"['pop', 'rnb', 'latin', 'female vocalists', 'dance']",5.56
+Macklemore,2,78.5,3.98,74,1,"['hip-hop', 'rap', 'underground rap', 'hip hop', 'seattle']",50.0
+Mark Ronson,3,75.67,3.91,74,0,"['funk', 'british', 'pop', 'hip-hop', 'dj']",0.0
+Michael Bublé,4,68.75,3.82,73,0,['christmas'],0.0
+Key Glock,2,66.0,2.68,73,2,"['hip-hop', 'rap', 'trap', 'hip hop', 'memphis']",100.0
+Keane,3,54.67,3.83,73,0,"['britpop', 'indie', 'british', 'alternative', 'rock']",0.0
+Labrinth,14,57.21,2.81,73,4,"['electronic', 'british', 'rnb', 'dance', 'r&b']",28.57
+Lauv,5,1.0,3.29,73,1,"['pop', 'indie pop', 'indie', 'american', 'jazz']",20.0
+YUNGBLUD,2,72.5,4.23,73,0,"['indie rock', 'british', 'indie', 'rock', 'alternative']",0.0
+Jack Johnson,2,74.5,3.48,73,0,['surf rock'],0.0
+Mariah the Scientist,3,70.33,3.14,73,1,['alternative r&b'],33.33
+Major Lazer,9,27.78,3.09,73,1,['moombahton'],11.11
+Scorpions,2,72.5,4.72,73,0,"['hard rock', 'glam metal', 'rock']",0.0
+Thomas Rhett,3,59.0,3.79,73,0,"['country', 'acoustic country', 'pop country']",0.0
+The Fray,3,77.67,4.36,73,0,"['alternative', 'rock', 'piano rock', 'alternative rock', 'indie']",0.0
+Ghost,7,50.71,4.37,73,1,"['metal', 'hard rock']",14.29
+MGMT,4,78.0,4.55,73,1,['indie'],25.0
+Cage The Elephant,3,66.67,3.72,73,0,"['indie rock', 'alternative', 'rock', 'indie', 'punk rock']",0.0
+Glass Animals,4,42.0,4.19,73,0,"['electronic', 'trip-hop', 'indie', 'british', 'dubstep']",0.0
+Sam Fender,9,63.11,4.15,73,4,"['indie rock', 'rock', 'indie', 'my top songs', 'british']",44.44
+Mumford & Sons,3,19.33,4.13,73,1,"['folk', 'indie folk', 'folk rock']",33.33
+NLE Choppa,2,57.0,3.61,73,2,"['trap', 'rap', 'hip-hop', 'hip hop', 'memphis']",100.0
+Calum Scott,2,79.5,3.86,73,0,['soft pop'],0.0
+Outkast,4,67.25,4.2,73,4,"['southern hip hop', 'hip hop']",100.0
+Jon Pardi,5,50.0,3.4,73,0,"['country', 'acoustic country']",0.0
+will.i.am,4,69.25,4.34,73,1,"['hip-hop', 'rap', 'rnb', 'funk', 'hip hop']",25.0
+girl in red,15,54.13,3.1,73,6,['bedroom pop'],40.0
+Zedd,3,77.0,3.7,73,0,['edm'],0.0
+Disclosure,3,56.0,4.38,73,0,['house'],0.0
+DJ Khaled,7,65.43,3.97,73,7,"['hip-hop', 'rap', 'hip hop', 'miami', 'djs']",100.0
+Luis Fonsi,4,70.5,3.35,73,0,['latin'],0.0
+Jeremih,4,64.75,4.0,73,1,"['rnb', 'hip-hop', 'soul', 'hip hop', 'r&b']",25.0
+Gwen Stefani,4,54.75,3.67,73,2,"['pop', 'female vocalists', 'dance', 'rock', 'alternative']",50.0
+Depeche Mode,3,69.67,4.12,73,0,"['new wave', 'synthpop', 'darkwave']",0.0
+Journey,4,59.75,4.18,73,0,"['aor', 'classic rock']",0.0
+Kelly Clarkson,8,56.12,3.59,72,0,['christmas'],0.0
+Wale,2,61.0,4.12,72,2,"['hip-hop', 'rap', 'hip hop', 'dc', 'go-go']",100.0
+Troye Sivan,7,61.29,3.27,72,2,"['pop', 'indie pop', 'indie', 'male vocalists', 'alternative']",28.57
+Adrianne Lenker,4,71.75,3.16,72,0,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",0.0
+AURORA,22,37.5,3.82,72,0,"['norwegian pop', 'art pop']",0.0
+Alesso,4,56.75,3.21,72,0,['edm'],0.0
+Alec Benjamin,3,75.67,3.16,72,0,"['pop', 'indie pop', 'american', 'indie', 'male vocalists']",0.0
+Alan Jackson,4,67.5,3.32,72,0,"['country', 'christian country', 'classic country']",0.0
+Baby Keem,2,76.0,3.18,72,2,"['rap', 'hip-hop', 'trap', 'hip hop', 'west coast hip hop']",100.0
+Alessia Cara,15,46.2,3.63,72,0,"['pop', 'soul', 'rnb', 'canadian', 'female vocalists']",0.0
+George Strait,8,57.12,3.35,72,0,"['country', 'classic country', 'traditional country', 'honky tonk']",0.0
+Bastille,3,61.67,3.46,72,0,"['indie', 'electronic', 'alternative', 'british', 'house']",0.0
+Tove Lo,5,64.4,3.39,72,3,"['pop', 'swedish', 'electronic', 'female vocalists', 'indie']",60.0
+Russ,2,71.5,3.36,72,2,"['hip-hop', 'rap', 'rnb', 'hip hop', 'russ']",100.0
+Papa Roach,3,68.67,3.32,72,1,"['nu metal', 'rap metal', 'alternative metal', 'rap rock', 'rock']",33.33
+R.E.M.,2,38.0,4.9,72,0,"['jangle pop', 'alternative rock', 'rock']",0.0
+Beach House,3,57.0,5.08,72,0,['dream pop'],0.0
+Dido,2,77.5,3.82,72,0,"['downtempo', 'synthpop', 'pop', 'alternative rock', 'singer-songwriter', 'uk', 'singer', 'electropop', 'soft rock', 'dance-pop', 'trip hop', 'united kingdom', 'classic pop and rock', 'folktronica', 'thank you']",0.0
+benny blanco,3,70.33,2.87,72,0,"['pop', 'hip hop', 'electronic', 'hip-hop', 'american']",0.0
+Jonas Blue,7,59.57,3.31,72,0,['tropical house'],0.0
+Lily Allen,2,57.5,3.38,72,1,"['pop', 'female vocalists', 'british', 'britpop', 'singer-songwriter']",50.0
+MARINA,11,63.45,3.43,72,4,"['pop', 'female vocalists', 'indie pop', 'post-hardcore', 'polish']",36.36
+Max McNown,2,75.0,3.27,72,0,"['country', 'bluegrass', 'folk', 'americana', 'american']",0.0
+Chris Grey,5,69.0,2.54,72,0,['dark r&b'],0.0
+Gabry Ponte,3,56.33,2.94,72,0,"['slap house', 'italo dance']",0.0
+Noah Cyrus,4,71.5,3.06,72,0,"['pop', 'country pop', 'alternative country', 'alternative pop', 'noah cyrus', '2020s', 'gen z', 'nepo baby']",0.0
+Ice Cube,2,73.5,4.1,72,2,"['gangster rap', 'west coast hip hop', 'old school hip hop', 'g-funk']",100.0
+Reneé Rapp,3,72.67,2.53,72,3,"['my top songs', 'pop', 'american', 'usa', 'female vocalists']",100.0
+Montell Fish,13,54.92,2.54,72,1,"['gospel', 'soul', 'hip-hop', 'electronic', 'alternative rnb']",7.69
+Topic,3,56.33,2.86,72,0,"['german', 'electronic', 'hip-hop', 'rap', 'dance']",0.0
+blackbear,8,51.38,3.34,71,8,"['electronic', 'pop', 'hip hop', 'hip-hop', 'rnb']",100.0
+Kane Brown,4,58.75,3.2,71,0,"['country', 'pop country']",0.0
+YNW Melly,2,73.5,4.12,71,2,['melodic rap'],100.0
+3 Doors Down,4,66.75,3.94,71,0,['post-grunge'],0.0
+BONES,2,67.5,1.78,71,2,"['cloud rap', 'emo rap', 'horrorcore', 'trap metal', 'underground hip hop']",100.0
+Ashnikko,5,61.8,2.74,71,3,"['electronic', 'pop', 'electropop', 'hip-hop', 'rap']",60.0
+Sean Kingston,2,76.5,3.68,71,0,"['rnb', 'hip-hop', 'reggae', 'pop', 'hip hop']",0.0
+Stephen Sanchez,4,74.5,2.98,71,0,"['folk', 'indie pop', 'singer-songwriter', 'indie', 'folk pop']",0.0
+Sting,12,49.75,4.37,71,0,['soft rock'],0.0
+Robbie Williams,2,73.0,4.36,71,0,"['rock', 'pop', 'alternative rock', 'dance', 'british', 'singer-songwriter', 'britpop', 'swing', 'dance-pop', 'adult contemporary', 'pop rock', 'pop and chart', 'standards']",0.0
+Billy Idol,2,63.5,3.94,71,0,"['rock', 'new wave', '80s', 'punk', 'classic rock']",0.0
+Hotel Ugly,2,80.5,2.5,71,0,"['neo soul', 'indie', 'alternative', 'soul', 'alternative rock']",0.0
+Nas,8,60.75,4.34,71,7,"['east coast hip hop', 'old school hip hop', 'hip hop']",87.5
+Natasha Bedingfield,2,82.0,3.85,71,0,"['pop', 'female vocalists', 'british', 'singer-songwriter', 'female']",0.0
+Breaking Benjamin,2,66.5,3.49,71,0,"['alternative metal', 'post-grunge', 'rock', 'hard rock']",0.0
+Mazzy Star,3,67.67,4.93,71,0,"['dream pop', 'shoegaze', 'slowcore']",0.0
+Isabel LaRosa,11,66.27,2.38,71,2,"['pop', 'hyperpop', 'spotify', 'my top songs', 'electropop']",18.18
+Eric Church,5,60.6,3.65,71,0,"['country', 'acoustic country']",0.0
+Jason Mraz,3,75.67,4.03,71,0,"['soft pop', 'acoustic pop']",0.0
+Ludwig van Beethoven,3,30.33,5.21,71,0,"['classical', 'classical piano', 'chamber music']",0.0
+Little Mix,2,62.5,3.63,71,1,"['pop', 'british', 'female vocalists', 'girl groups', 'x factor']",50.0
+Lil Nas X,10,69.2,2.64,71,6,"['hip-hop', 'rap', 'trap', 'pop', 'country rap']",60.0
+Jessie J,4,67.75,3.55,71,0,"['pop', 'british', 'female vocalists', 'rnb', 'singer-songwriter']",0.0
+Marilyn Manson,48,41.29,4.64,71,35,"['industrial metal', 'industrial rock', 'industrial', 'metal', 'nu metal']",72.92
+Logic,2,71.0,4.12,71,2,"['hip-hop', 'rap', 'hip hop', 'biracial', 'electronic']",100.0
+Christina Perri,26,47.88,2.29,71,0,['soft pop'],0.0
+Fetty Wap,4,70.75,3.56,70,4,"['hip-hop', 'rap', 'trap', 'rnb', 'hip hop']",100.0
+Florida Georgia Line,10,48.3,3.51,70,0,"['country', 'pop country', 'acoustic country']",0.0
+Foster The People,2,77.0,4.13,70,0,"['indie', 'indie pop', 'alternative', 'american', 'indie rock']",0.0
+Train,5,40.6,3.47,70,0,['soft pop'],0.0
+Toby Keith,6,48.33,4.08,70,0,"['country', 'classic country']",0.0
+Niall Horan,5,54.4,3.29,70,1,"['pop', 'folk', 'irish', 'singer-songwriter', 'male vocalists']",20.0
+Brooks & Dunn,5,69.4,3.41,70,0,"['country', 'classic country', 'acoustic country', 'honky tonk']",0.0
+Busta Rhymes,3,54.67,4.03,70,3,['east coast hip hop'],100.0
+Carly Rae Jepsen,2,76.5,3.22,70,0,"['pop', 'canadian', 'female vocalists', 'folk', 'acoustic']",0.0
+The Game,4,63.0,3.8,70,4,['west coast hip hop'],100.0
+Aya Nakamura,2,66.5,2.82,70,0,"['french r&b', 'pop urbaine']",0.0
+Sufjan Stevens,2,72.0,4.39,70,0,['baroque pop'],0.0
+Shania Twain,2,70.5,3.71,70,0,['country'],0.0
+James Blunt,3,66.67,3.83,70,1,"['pop', 'singer-songwriter', 'acoustic', 'indie', 'rock']",33.33
+MEDUZA,2,68.0,2.63,70,0,"['power metal', 'house', 'electronic', 'swedish', 'neo-classical metal']",0.0
+Mindless Self Indulgence,2,57.5,2.36,70,0,"['industrial', 'industrial jungle pussy punk', 'electronic', 'punk', 'alternative']",0.0
+Kate Bush,2,45.0,4.98,70,0,"['art pop', 'baroque pop', 'art rock']",0.0
+Dove Cameron,3,41.0,2.66,70,3,"['pop', 'disney', 'female vocalists', 'american', 'my top songs']",100.0
+Elley Duhé,2,73.5,2.5,70,0,"['pop', 'rnb', 'electronic', 'american', 'united states']",0.0
+Dolly Parton,3,72.33,3.18,70,0,"['country', 'classic country']",0.0
+John Williams,26,37.62,4.1,70,0,['soundtrack'],0.0
+Zerb,2,44.0,2.56,69,1,['afro house'],50.0
+Fifth Harmony,2,78.0,3.66,69,0,"['pop', 'female vocalists', 'x factor', 'american', 'rnb']",0.0
+Ruth B.,6,66.5,4.19,69,0,"['pop', 'rnb', 'piano', 'canadian', 'canada']",0.0
+Julia Michaels,4,50.75,2.94,69,1,"['pop', 'singer-songwriter', 'female vocalists', 'my top songs', 'american']",25.0
+Portugal. The Man,2,74.0,3.41,69,0,"['experimental', 'indie', 'indie rock', 'progressive', 'rock']",0.0
+Khruangbin,2,0.0,4.31,69,0,['neo-psychedelic'],0.0
+Kenny Chesney,2,57.5,4.08,69,0,['country'],0.0
+Blake Shelton,8,58.25,3.63,69,0,['country'],0.0
+Rae Sremmurd,5,71.0,4.14,69,5,"['hip-hop', 'rap', 'hip hop', 'trap', 'urban']",100.0
+Phantogram,10,45.1,3.85,69,0,"['trip-hop', 'electronic', 'indie', 'experimental', 'new york']",0.0
+Sevdaliza,2,38.5,3.08,69,0,"['art pop', 'alternative rnb', 'trip hop', 'electronic', 'trip-hop']",0.0
+Trey Songz,3,42.67,3.78,69,1,['r&b'],33.33
+Destiny's Child,3,60.67,4.15,69,0,"['pop', 'rnb', 'dance-pop', 'pop rap', 'pop and chart', 'pop soul', 'christmas music', 'r&b', 'contemporary r&b']",0.0
+Kim Petras,2,28.5,2.9,69,1,"['pop', 'german', 'electropop', 'female vocalists', 'electronic']",50.0
+Ice Spice,2,64.0,2.05,69,2,"['rap', 'drill', 'hip-hop', 'trap', 'mother']",100.0
+DMX,2,63.0,3.96,69,2,"['east coast hip hop', 'old school hip hop', 'hardcore hip hop']",100.0
+Current Joys,2,0.0,2.92,69,0,['lo-fi indie'],0.0
+Lukas Graham,3,47.67,3.77,69,0,['dansk pop'],0.0
+Audioslave,3,74.33,4.72,69,0,"['grunge', 'post-grunge', 'alternative metal']",0.0
+Sum 41,3,72.33,3.02,69,2,"['pop punk', 'punk', 'skate punk']",66.67
+Ja Rule,2,2.0,4.18,69,1,['east coast hip hop'],50.0
+Clara La San,3,76.67,3.23,69,1,"['alternative rnb', 'british', 'ambient', 'pop', 'rnb']",33.33
+Men I Trust,2,35.5,3.62,69,0,"['bedroom pop', 'indie pop']",0.0
+Mother Mother,3,25.0,3.39,69,1,"['indie', 'canadian', 'indie pop', 'experimental', 'folk']",33.33
+CeeLo Green,2,61.0,3.72,69,1,"['soul', 'funk', 'hip-hop', 'rnb', 'hip hop']",50.0
+Mobb Deep,3,70.33,4.57,69,3,"['east coast hip hop', 'old school hip hop', 'hardcore hip hop', 'hip hop', 'gangster rap']",100.0
+Tones And I,2,70.0,3.49,69,0,"['pop', 'australian', 'indie pop', 'female vocalists', 'australia']",0.0
+Tim McGraw,9,53.33,3.94,69,0,"['country', 'classic country']",0.0
+The Temper Trap,2,59.5,3.9,69,0,"['indie', 'indie rock', 'australian', 'alternative', 'rock']",0.0
+Ashe,4,69.75,3.53,69,4,"['future garage', 'trip hop', 'microhouse', 'downtempo', 'ambient house']",100.0
+Ella Mai,3,68.67,3.93,69,0,['r&b'],0.0
+Willie Nelson,2,53.5,2.76,69,0,"['outlaw country', 'classic country', 'country', 'traditional country', 'honky tonk']",0.0
+FINNEAS,2,66.5,3.56,69,1,"['indie pop', 'alternative', 'singer-songwriter', 'indie', 'my top songs']",50.0
+The Pussycat Dolls,2,49.5,4.31,69,0,"['pop', 'rnb', 'dance', 'female vocalists', 'hip-hop']",0.0
+Indila,5,72.0,4.13,69,0,['french pop'],0.0
+Crystal Castles,4,60.0,4.19,69,0,"['witch house', 'electroclash', 'new rave', 'alternative dance']",0.0
+D'Angelo,2,58.5,3.88,69,0,['neo soul'],0.0
+Eyedress,4,19.5,2.01,69,0,"['electronic', 'psychedelic', 'experimental', 'indie', 'lo-fi']",0.0
+Macklemore & Ryan Lewis,3,46.0,4.38,69,2,"['hip-hop', 'rap', 'underground hip-hop', 'underground rap', 'seattle']",66.67
+Incubus,2,65.0,5.82,69,0,"['nu metal', 'funk rock', 'alternative metal', 'alternative rock']",0.0
+The White Stripes,3,38.0,3.31,68,0,"['garage rock', 'blues rock', 'rock', 'alternative rock']",0.0
+Surf Curse,2,80.0,2.5,68,0,['indie'],0.0
+Stevie Nicks,2,48.0,3.8,68,0,"['rock', 'pop', 'american', 'singer-songwriter', 'country rock', 'soft rock', 'pop rock', 'aor', 'singer/songwriter']",0.0
+George Ezra,2,72.0,3.44,68,0,"['indie', 'folk', 'singer-songwriter', 'british', 'indie folk']",0.0
+Galantis,4,59.5,3.35,68,0,"['house', 'electronic', 'pop', 'dance', 'swedish']",0.0
+Dermot Kennedy,2,64.5,3.76,68,0,"['singer-songwriter', 'pop', 'folk', 'irish', 'ireland']",0.0
+Rita Ora,3,49.33,3.3,68,0,"['pop', 'dance', 'female vocalists', 'rnb', 'british']",0.0
+Pet Shop Boys,2,63.5,4.94,68,0,"['synthpop', 'new wave']",0.0
+Birdy,6,58.33,3.95,68,0,"['folk', 'indie', 'female vocalists', 'british', 'singer-songwriter']",0.0
+Fergie,3,18.33,3.63,68,1,"['pop', 'rnb', 'female vocalists', 'hip-hop', 'dance']",33.33
+Soulja Boy,2,78.0,3.46,68,0,"['hip-hop', 'rap', 'crunk', 'hip hop', 'snap music']",0.0
+Joe Hisaishi,7,41.71,3.25,68,0,"['japanese classical', 'anime']",0.0
+CRO,3,51.33,3.06,68,1,"['german hip hop', 'german indie', 'german pop', 'german indie pop']",33.33
+Ski Mask The Slump God,3,66.0,2.54,68,3,"['trap', 'hip-hop', 'rap', 'hip hop', 'florida']",100.0
+Olly Alexander (Years & Years),3,48.67,3.85,68,0,"['pop', 'electronic', 'eurovision', 'dance', 'british']",0.0
+Snow Patrol,2,75.5,5.18,68,0,"['indie', 'alternative', 'rock', 'indie rock', 'britpop']",0.0
+Rascal Flatts,5,58.0,3.92,68,0,['country'],0.0
+Gotye,2,40.5,4.08,68,0,"['indie', 'electronic', 'alternative', 'australian', 'aussie']",0.0
+WILLOW,4,58.0,3.15,68,1,"['rnb', 'pop', 'alternative', 'post-rock', 'female vocalists']",25.0
+A$AP Ferg,2,66.5,3.8,68,2,['rap'],100.0
+Rudimental,2,56.0,4.19,68,0,"['drum and bass', 'dubstep', 'electronic', 'british', 'uk funky']",0.0
+Flume,2,26.0,4.14,68,2,['future bass'],100.0
+The Black Keys,3,40.0,2.97,68,0,"['blues rock', 'garage rock', 'modern blues', 'rock']",0.0
+Magdalena Bay,2,73.5,4.28,68,0,"['synthpop', 'electropop', 'indie pop', 'dream pop', 'pop']",0.0
+Mike Posner,4,54.25,3.42,68,2,"['hip-hop', 'rnb', 'pop', 'rap', 'electro hop']",50.0
+Lizzo,8,52.88,2.68,68,4,"['pop', 'hip-hop', 'rnb', 'hip hop', 'rap']",50.0
+Suki Waterhouse,5,49.6,3.37,68,1,"['indie pop', 'my top songs', 'pop', 'indie', 'electronic']",20.0
+Nessa Barrett,5,62.2,2.87,68,3,"['pop', 'my top songs', 'pop rock', 'electropop', 'electronic']",60.0
+The Verve,2,42.0,5.95,68,0,"['britpop', 'shoegaze']",0.0
+New West,2,1.0,3.23,68,0,"['canadian', 'indie rock', 'austriancountry', 'dirty south', 'funk_add_to_lidarr_batch_19']",0.0
+Tommy Richman,2,77.0,2.38,68,1,"['rnb', 'rap', 'funk', 'hip-hop', 'virginia']",50.0
+Taio Cruz,4,70.0,3.3,67,0,"['rnb', 'pop', 'hip-hop', 'soul', 'taio cruz']",0.0
+Iggy Azalea,3,63.67,3.51,67,3,"['hip-hop', 'rap', 'pop', 'hip hop', 'australia']",100.0
+James Bay,4,67.25,3.92,67,0,"['folk', 'indie', 'singer-songwriter', 'british', 'indie pop']",0.0
+Gym Class Heroes,5,65.4,3.68,67,2,"['hip-hop', 'alternative', 'indie', 'rap', 'hip hop']",40.0
+The All-American Rejects,2,55.0,4.08,67,0,"['pop punk', 'emo']",0.0
+Selena Gomez & The Scene,5,47.4,3.12,67,0,"['pop', 'female vocalists', 'pop rock', 'disney', 'selena gomez']",0.0
+Oliver Tree,3,36.0,2.75,67,3,"['electronic', 'hip-hop', 'indie pop', 'electropop', 'pop']",100.0
+Grimes,7,47.86,4.39,67,1,['art pop'],14.29
+Passenger,5,28.2,4.21,67,0,['folk pop'],0.0
+Old Dominion,3,58.67,3.57,67,0,['country'],0.0
+Keith Urban,5,45.8,4.46,67,0,['country'],0.0
+Wallows,2,72.5,2.77,67,0,['indie'],0.0
+Flo Milli,2,71.0,2.09,67,2,"['rap', 'hip-hop', 'trap', 'female vocalists', 'hip hop']",100.0
+alt-J,3,0.0,4.2,67,0,"['indie', 'indie rock']",0.0
+Lykke Li,4,53.25,3.84,67,3,"['indie pop', 'female vocalists', 'swedish', 'electronic', 'pop']",75.0
+Two Feet,25,41.44,2.78,67,7,"['indie', 'blues rock', 'electronic', 'american', 'jazz and blues']",28.0
+Fat Joe,3,59.0,4.05,66,3,['east coast hip hop'],100.0
+fun.,3,73.33,4.32,66,1,"['indie pop', 'indie', 'alternative', 'pop', 'rock']",33.33
+SIENNA SPIRO,2,58.5,3.76,66,0,"['soul', 'jazz', 'singer-songwriter', 'pop', 'british']",0.0
+Björk,3,17.33,4.71,66,0,"['art pop', 'trip hop']",0.0
+Poppy,4,42.0,3.8,66,0,"['pop', 'nu metal', 'metal', 'alternative metal', 'electropop']",0.0
+LMFAO,4,58.5,3.84,66,0,"['electronic', 'hip-hop', 'electro', 'crunk', 'hip hop']",0.0
+Kodaline,3,71.0,4.1,66,0,"['indie rock', 'irish', 'alternative', 'indie', 'acoustic']",0.0
+Hoobastank,3,30.0,3.88,66,0,['nu metal'],0.0
+Sonny Fodera,2,66.5,3.34,66,0,['house'],0.0
+Joel Corry,2,63.5,2.74,66,0,['dance pop'],0.0
+Jimi Hendrix,3,68.67,4.02,66,0,"['psychedelic rock', 'classic rock', 'acid rock', 'blues rock']",0.0
+Sleeping At Last,3,67.33,4.19,66,0,"['indie', 'indie rock', 'alternative', 'christian', 'rock']",0.0
+Sherine,33,43.21,4.4,66,0,"['egyptian pop', 'sholawat', 'khaleeji']",0.0
+Paris Paloma,6,58.67,3.49,66,1,"['british', 'acoustic', 'indie pop', 'singer-songwriter', 'female vocalists']",16.67
+Owl City,2,77.0,3.62,66,0,"['electronic', 'indie', 'powerpop', 'electronica', 'pop']",0.0
+Darius Rucker,2,73.5,4.42,66,0,['country'],0.0
+Two Door Cinema Club,2,57.5,4.06,66,0,"['indie', 'indie rock']",0.0
+Sasha Alex Sloan,2,72.0,3.24,66,0,"['my top songs', 'indie pop', 'female vocalists', 'indie', 'pop']",0.0
+R. Kelly,3,61.67,4.23,66,0,['r&b'],0.0
+Lady A,2,37.0,4.13,66,0,"['country', 'pop country']",0.0
+Cassie,2,79.0,3.44,66,0,"['rnb', 'pop', 'female vocalists', 'hip-hop', 'dance']",0.0
+Danny Elfman,5,55.2,3.0,66,0,['soundtrack'],0.0
+DNCE,2,41.0,3.64,66,2,"['pop', 'pop rock', 'dance', 'funk', 'american']",100.0
+Dan + Shay,3,67.33,3.2,66,0,['country'],0.0
+Howard Shore,7,50.86,5.12,66,0,['soundtrack'],0.0
+Hanumankind,2,70.5,3.03,66,2,"['malayalam hip hop', 'desi hip hop']",100.0
+Hailee Steinfeld,6,59.33,3.32,66,0,"['pop', 'female vocalists', 'dance', 'teen pop', 'american']",0.0
+Bazzi,4,69.25,2.69,66,3,"['rnb', 'pop', 'american', 'singer-songwriter', 'male vocalists']",75.0
+Naeleck,3,38.33,2.92,66,0,['electro house'],0.0
+Cults,3,26.33,3.6,66,0,"['indie pop', 'lo-fi', 'experimental', 'noise', 'indie']",0.0
+Ari Abdul,6,51.0,2.96,66,2,['dark r&b'],33.33
+Icona Pop,2,70.0,2.6,66,2,"['electronic', 'electropop', 'swedish', 'pop', 'synthpop']",100.0
+Imanbek,2,54.5,2.3,66,0,['slap house'],0.0
+MAGIC!,2,73.0,3.74,66,0,"['reggae', 'pop', 'canadian', 'soul', 'rock']",0.0
+M.I.A.,5,55.4,3.48,66,0,"['electronic', 'hip-hop', 'female vocalists', 'dance', 'indie']",0.0
+Lupe Fiasco,2,66.5,4.12,66,1,"['hip-hop', 'rap', 'hip hop', 'underground hip-hop', 'chicago']",50.0
+Edward Maya,3,35.33,3.21,66,0,"['electronic', 'house', 'dance', 'trance', 'romanian']",0.0
+Wu-Tang Clan,3,60.0,4.53,65,3,"['east coast hip hop', 'old school hip hop', 'hip hop', 'gangster rap', 'hardcore hip hop']",100.0
+Wolf Alice,2,62.0,4.32,65,0,['indie'],0.0
+Ennio Morricone,8,39.62,2.79,65,0,['soundtrack'],0.0
+Chris Young,15,48.07,3.31,65,0,"['country', 'acoustic country']",0.0
+Iyaz,2,73.0,3.03,65,0,"['rnb', 'hip-hop', 'pop', 'rap', 'male vocalists']",0.0
+Maribou State,2,29.5,5.08,65,0,"['electronic', 'ambient', 'future garage', 'dubstep', 'downtempo']",0.0
+Jeremy Soule,7,51.29,3.09,65,0,"['medieval', 'soundtrack']",0.0
+Andy Grammer,3,50.0,3.3,65,0,"['pop', 'singer-songwriter', 'acoustic', 'mellow', 'american']",0.0
+The Rare Occasions,2,41.5,3.25,65,0,"['indie rock', 'indie', 'alternative rock', 'alternative', 'american']",0.0
+salvia palth,2,77.0,2.05,65,0,"['slowcore', 'lo-fi indie']",0.0
+Billy Currington,2,51.0,3.47,65,0,"['country', 'acoustic country']",0.0
+SAINt JHN,2,41.0,2.94,65,2,"['hip-hop', 'rap', 'trap', 'rnb', 'electronic']",100.0
+Sam Hunt,4,53.0,3.61,65,0,"['country', 'pop country']",0.0
+Sawano Hiroyuki,2,37.5,2.42,65,0,"['anime', 'soundtrack']",0.0
+Fugees,2,69.5,4.06,65,2,['east coast hip hop'],100.0
+HAIM,5,32.8,3.64,65,0,"['indie', 'indie pop', 'female vocalists', 'indie rock', 'soul']",0.0
+Cascada,2,33.0,3.29,65,0,"['europop', 'eurodance']",0.0
+Beach Weather,2,77.0,3.27,65,0,"['indie rock', 'indie', 'alternative', 'rock', 'usa']",0.0
+Ramin Djawadi,9,38.0,4.14,65,0,['soundtrack'],0.0
+Sam Feldt,2,63.5,2.89,65,0,['tropical house'],0.0
+BØRNS,4,57.75,3.54,65,0,"['folk', 'ambient', 'pop', 'synthpop', 'indie-pop']",0.0
+Saweetie,2,42.5,2.7,65,1,"['hip-hop', 'rap', 'better than selena gomez', 'urban', 'female rapper']",50.0
+24kGoldn,4,53.0,2.38,65,3,"['hip-hop', 'rap', 'trap', 'pop', 'emo rap']",75.0
+Dierks Bentley,7,48.71,3.7,65,0,['country'],0.0
+Slowdive,3,67.67,4.3,64,0,"['shoegaze', 'dream pop', 'slowcore']",0.0
+Niklas Dee,3,54.0,2.77,64,0,"['hypertechno', 'slap house']",0.0
+Neon Trees,3,71.67,3.34,64,1,"['indie', 'alternative', 'indie rock', 'alternative rock', 'pop']",33.33
+Grateful Dead,2,45.5,3.88,64,0,"['jam band', 'psychedelic rock', 'acid rock']",0.0
+Josh Turner,2,71.0,3.66,64,0,"['country', 'christian country']",0.0
+Brad Paisley,4,56.75,4.46,64,0,['country'],0.0
+John Travolta,2,74.5,3.22,64,0,['musicals'],0.0
+John Powell,18,44.33,3.1,64,0,['soundtrack'],0.0
+Ali Gatie,2,57.5,2.86,64,0,"['rnb', 'canadian', 'pop', 'soul', 'iraqi']",0.0
+Aminé,2,66.5,2.76,64,2,"['rap', 'hip-hop', 'trap', 'hip hop', 'american']",100.0
+The Chicks,3,67.67,4.12,64,0,['country'],0.0
+Fabolous,2,52.5,4.79,64,2,"['hip hop', 'pop rap', 'hip hop rnb and dance hall', 'east coast hip hop']",100.0
+Dutch Melrose,4,57.0,2.76,64,0,['dark r&b'],0.0
+Jaymes Young,3,66.0,3.96,64,0,"['indie', 'alternative', 'electronic', 'indie pop', 'electropop']",0.0
+Cole Swindell,7,49.57,3.4,64,0,"['country', 'acoustic country']",0.0
+WWE,3,40.0,2.86,64,0,"['wrestling', 'metal', 'rock', 'themes', 'soundtrack']",0.0
+Sigala,4,53.0,3.08,64,0,"['dance', 'house', 'electronic', 'british', 'tropical house']",0.0
+Smash Mouth,2,72.5,3.2,64,0,"['alternative rock', 'ska punk', 'power pop', 'dance-pop', 'psychedelic pop', 'pop rock', 'pop punk', 'skate punk', 'neo-psychedelia', 'reggae rock', 'surf rock', 'pop and chart', 'surf punk', '2008 universal fire victim', 'cocktail nation']",0.0
+Lil Skies,2,51.5,3.38,64,2,['melodic rap'],100.0
+Ludwig Göransson,9,55.33,3.85,64,0,['soundtrack'],0.0
+Internet Money,2,1.0,3.25,64,2,"['rap', 'hip-hop', 'trap', 'hip hop', 'emo rap']",100.0
+Michael Giacchino,19,31.32,3.25,63,0,['soundtrack'],0.0
+FKA twigs,8,47.62,4.07,63,1,"['art pop', 'alternative r&b']",12.5
+Leonard Cohen,2,62.0,4.67,63,0,['singer-songwriter'],0.0
+Jaden,2,55.5,2.86,63,0,"['hip-hop', 'rap', 'trap', 'hip hop', 'rnb']",0.0
+FIFTY FIFTY,2,25.5,2.7,63,0,['k-pop'],0.0
+OMI,3,64.67,3.01,63,0,"['reggae', 'electronic', 'hardcore', 'dance', 'jamaican']",0.0
+Nicky Youre,2,5.0,2.71,63,0,"['pop', 'indie pop', 'c', 'indie', 'alternative']",0.0
+Nick Cave & The Bad Seeds,2,0.0,5.76,63,0,"['post-punk', 'rock', 'alternative', 'singer-songwriter', 'alternative rock']",0.0
+Duncan Laurence,2,75.0,3.07,63,0,"['pop', 'soul', 'dutch', 'eurovision', 'male vocalists']",0.0
+Gustavo Santaolalla,6,45.33,2.48,63,0,['soundtrack'],0.0
+James Horner,8,42.75,4.94,63,0,['soundtrack'],0.0
+Take That,5,52.8,3.64,63,0,"['pop', 'british', 'britpop', '90s', 'boybands']",0.0
+Sydney Rose,2,61.5,3.78,63,0,"['indie pop', 'singer-songwriter', 'indie folk', 'folk pop', 'united states']",0.0
+Brantley Gilbert,4,40.25,3.74,63,0,"['country', 'country rock', 'country hip hop', 'acoustic country']",0.0
+R. City,2,69.0,3.78,63,0,,0.0
+Rosa Linn,3,0.67,2.75,63,0,"['eurovision', 'pop', 'armenian', 'armenia', 'eurovision 2022']",0.0
+Bo Burnham,2,51.5,2.99,63,1,['comedy'],50.0
+Fiona Apple,11,56.0,4.37,63,2,['art pop'],18.18
+Rich The Kid,2,62.0,3.06,63,2,['trap'],100.0
+Nothing But Thieves,2,48.5,3.87,63,0,"['alternative rock', 'rock', 'indie rock', 'indie', 'alternative']",0.0
+Pastel Ghost,9,44.11,3.77,63,0,"['witch house', 'darkwave']",0.0
+LUM!X,2,50.0,2.46,63,0,"['slap house', 'melbourne bounce']",0.0
+Travis Tritt,2,61.5,4.15,63,0,"['classic country', 'country', 'outlaw country', 'traditional country']",0.0
+Robin Thicke,2,67.0,4.38,63,1,"['soul', 'rnb', 'pop', 'singer-songwriter', 'blue-eyed soul']",50.0
+Vanessa Carlton,2,30.0,3.95,63,0,"['pop', 'female vocalists', 'piano', 'singer-songwriter', 'rock']",0.0
+The Vamps,3,66.0,3.19,62,0,"['pop', 'british', 'pop rock', 'indie', 'acoustic']",0.0
+Mabel,3,56.0,3.67,62,1,"['pop', 'rnb', 'dance', 'british', 'female vocalists']",33.33
+BENEE,2,62.0,3.72,62,2,"['pop', 'indie pop', 'indie', 'new zealand', 'female vocalists']",100.0
+Cordae,2,59.5,2.73,62,2,"['rap', 'trap', 'hip-hop', 'jazz rap', 'hip hop']",100.0
+BANNERS,2,71.0,3.66,62,0,"['indie', 'indie pop', 'pop', 'british', 'alternative']",0.0
+The Kinks,4,26.0,3.14,62,0,"['proto-punk', 'baroque pop']",0.0
+lucidbeatz,2,65.5,2.17,62,0,"['usa', 'newjazz', 'kazakhstan']",0.0
+James Newton Howard,10,35.4,2.44,62,0,['soundtrack'],0.0
+Thierry Von Der Warth,2,62.5,2.3,62,0,['tropical house'],0.0
+Lucky Daye,3,60.33,3.36,62,3,"['soul', 'rnb', 'hip-hop', 'louisiana', 'usa']",100.0
+Astrid S,2,69.0,3.47,62,0,['norwegian pop'],0.0
+Cheat Codes,3,33.0,3.5,62,0,"['electronic', 'pop', 'edm', 'tropical house', 'house']",0.0
+Naughty Boy,2,67.0,3.61,62,0,"['electronic', 'rnb', 'house', 'dance', 'electronica']",0.0
+Nancy Ajram,11,39.27,4.36,62,0,"['egyptian pop', 'khaleeji', 'sholawat']",0.0
+Mr.Kitty,2,51.0,3.92,62,0,"['witch house', 'darkwave']",0.0
+Klaus Badelt,11,52.18,2.56,62,0,['soundtrack'],0.0
+Sidewalks and Skeletons,2,72.5,3.83,62,0,"['witch house', 'darkwave']",0.0
+PSY,3,60.33,3.81,62,0,['k-pop'],0.0
+Huey Lewis & The News,2,31.5,3.99,62,0,"['80s', 'rock', 'classic rock', 'pop', 'pop-rock']",0.0
+Olly Murs,3,65.0,3.42,62,0,"['pop', 'british', 'male vocalists', 'indie', 'x factor']",0.0
+Prezioso,2,38.5,2.45,62,0,['italo dance'],0.0
+4batz,2,66.5,2.87,62,2,"['rnb', 'rap', 'soul', 'hip hop', 'hip-hop']",100.0
+Liam Payne,2,65.5,3.38,62,0,"['pop', 'rnb', 'british', 'male vocalists', 'one direction']",0.0
+Mareux,2,68.5,3.12,62,0,"['darkwave', 'cold wave']",0.0
+Tokio Hotel,2,47.5,3.82,62,0,"['rock', 'german', 'pop rock', 'alternative', 'pop']",0.0
+Alexandre Desplat,12,36.75,2.44,62,0,['soundtrack'],0.0
+Tinie Tempah,2,60.0,3.86,62,2,['grime'],100.0
+Ruelle,2,62.5,3.64,61,0,"['pop', 'electropop', 'indie pop', 'indie', 'female vocalists']",0.0
+Young M.A,2,64.0,3.84,61,2,"['hip-hop', 'rap', 'trap', 'brooklyn', 'hip hop']",100.0
+Ahmed Saad,9,42.67,4.01,61,0,"['mahraganat', 'egyptian pop', 'egyptian shaabi', 'khaleeji']",0.0
+Reba McEntire,2,41.0,4.64,61,0,"['country', 'classic country']",0.0
+Jordan Adetunji,2,68.0,2.51,61,1,['sexy drill'],50.0
+JP Saxe,2,67.5,3.48,61,0,"['indie', 'pop', 'singer-songwriter', 'canadian', 'canada']",0.0
+The Wanted,5,46.8,3.31,61,0,"['pop', 'british', 'garage rock', 'the wanted', 'male vocalists']",0.0
+Wegz,12,50.08,2.88,61,0,"['egyptian hip hop', 'arabic hip hop', 'mahraganat', 'egyptian pop']",0.0
+K.Flay,25,37.2,3.34,61,17,"['hip-hop', 'rap', 'indie', 'hip hop', 'alternative']",68.0
+Bishop Briggs,2,65.5,3.54,61,0,"['indie', 'british', 'pop', 'alternative', 'indie rock']",0.0
+Sara Bareilles,2,69.0,3.99,61,0,"['female vocalists', 'pop', 'singer-songwriter', 'piano', 'acoustic']",0.0
+Justine Skye,3,65.67,3.9,61,3,"['rnb', 'pop', 'soul', 'brooklyn', 'electronica']",100.0
+Samuel Kim,2,0.0,2.84,61,0,['anime'],0.0
+Nico & Vinz,2,67.0,4.11,61,0,"['pop', 'norwegian', 'hip-hop', 'rnb', 'norway']",0.0
+Soft Cell,2,60.5,2.56,61,0,"['synthpop', 'new wave']",0.0
+Toploader,2,70.0,3.88,61,0,"['pop', 'britpop', 'british', 'indie', 'rock']",0.0
+ConKi,20,49.55,2.58,61,0,,0.0
+BETWEEN FRIENDS,4,0.25,3.14,61,2,"['indie pop', 'my top songs', 'electronic', 'american', 'alt-pop']",50.0
+Marty Robbins,3,64.33,3.43,61,0,"['classic country', 'outlaw country']",0.0
+Marwan Moussa,11,46.0,2.71,61,0,"['egyptian hip hop', 'arabic hip hop', 'egyptian pop', 'mahraganat']",0.0
+The Chemical Brothers,4,16.25,3.84,61,0,"['big beat', 'alternative dance', 'electronic', 'breakbeat']",0.0
+Hole,2,54.5,3.24,61,0,"['riot grrrl', 'grunge']",0.0
+VIZE,2,53.5,2.72,60,0,['slap house'],0.0
+SOJA,3,40.33,3.81,60,0,"['reggae', 'roots reggae', 'reggae rock']",0.0
+Phillip Phillips,3,24.0,3.5,60,0,['folk pop'],0.0
+Cairokee,12,53.08,3.7,60,0,"['egyptian pop', 'egyptian hip hop', 'arabic hip hop', 'mahraganat']",0.0
+Kavinsky,2,57.5,3.86,60,0,"['synthwave', 'french house']",0.0
+La Roux,2,37.0,3.42,60,0,"['electropop', 'electronic', 'synthpop', 'dance', 'indietronica']",0.0
+LIZOT,2,46.0,2.38,60,0,"['slap house', 'hypertechno']",0.0
+Nicholas Britell,3,44.33,1.61,60,0,"['soundtrack', 'classical', 'composer', 'usa', 'film score']",0.0
+Olivia O'Brien,2,53.0,3.04,60,0,"['pop', 'electronic', 'american', 'usa', 'female vocalists']",0.0
+Tracy Lawrence,2,49.5,3.94,60,0,"['country', 'classic country', 'traditional country']",0.0
+Faith Hill,3,46.67,3.5,60,0,['country'],0.0
+Basshunter,2,65.0,3.14,60,0,"['eurodance', 'europop']",0.0
+Darci,3,58.0,2.48,60,3,['dark r&b'],100.0
+AWOLNATION,2,39.5,4.31,60,0,"['electronic', 'indie', 'alternative', 'indie rock', 'rock']",0.0
+DJSM,2,40.5,2.37,60,0,"['hypertechno', 'hard techno']",0.0
+Thomas Newman,5,52.2,2.49,60,0,['soundtrack'],0.0
+The City of Prague Philharmonic Orchestra,3,8.67,4.63,60,0,"['orchestral', 'classical']",0.0
+Royal Blood,2,55.5,3.44,60,1,"['garage rock', 'rock']",50.0
+Geek Music,3,46.0,2.64,60,0,['anime'],0.0
+Jóhann Jóhannsson,10,35.9,2.4,60,0,['neoclassical'],0.0
+Dybbukk,4,54.25,1.51,59,2,,50.0
+Trevor Daniel,2,34.0,2.65,59,0,"['pop', 'rnb', 'hip-hop', 'rap', 'alternative rnb']",0.0
+Ex Habit,13,51.46,2.82,59,4,['dark r&b'],30.77
+Mckyyy,2,56.0,2.12,59,0,"['house', 'electro']",0.0
+The Pretty Reckless,3,53.0,3.59,59,1,"['rock', 'alternative', 'female vocalists', 'post-grunge', 'indie rock']",33.33
+Michael Schulte,2,63.0,3.52,59,0,"['german', 'pop', 'c', 'acoustic', 'singer-songwriter']",0.0
+Asal,2,52.5,2.74,59,0,"['canadian', 'indie', 'canada', 'alternative', 'my ladies']",0.0
+Travie McCoy,2,71.5,3.51,59,2,"['hip-hop', 'rap', 'alternative rap', 'indie', 'hip hop']",100.0
+Regina Spektor,3,40.33,3.82,59,0,['anti-folk'],0.0
+Randy Newman,7,36.86,3.11,59,0,"['singer-songwriter', 'piano', 'soundtrack', 'pop', 'rock']",0.0
+Fuse ODG,2,50.5,3.64,59,0,"['azonto', 'afrobeats', 'hiplife']",0.0
+PVRIS,3,27.33,3.61,59,0,"['alternative rock', 'electronic', 'rock', 'female vocalists', 'pop punk']",0.0
+John Michael Montgomery,4,45.0,3.9,59,0,"['country', 'classic country']",0.0
+Bear McCreary,21,29.52,3.38,59,0,"['celtic', 'soundtrack']",0.0
+NEIKED,2,65.0,2.9,59,0,"['pop', 'rnb', 'swedish', 'indie', 'sweden']",0.0
+gnash,2,62.0,4.18,58,2,"['pop', 'rock', 'grunge', 'american', 'grunge rock']",100.0
+Yuki Hayashi,2,57.5,3.62,58,0,"['anime', 'soundtrack']",0.0
+Agnes Obel,2,60.0,4.9,58,0,"['folk', 'singer-songwriter', 'female vocalists', 'danish', 'indie']",0.0
+Omido,14,43.0,2.76,58,3,['dark r&b'],21.43
+Mishaal Tamer,6,52.17,2.89,58,3,"['saudi arabia', 'saudi', 'saudiarabia', 'alternative']",50.0
+Desiigner,2,66.0,4.12,58,2,"['hip-hop', 'rap', 'trap', 'hip hop', 'american']",100.0
+BEAUZ,3,41.67,2.63,58,0,['hard techno'],0.0
+Asaf Avidan,2,48.0,3.48,58,0,"['folk', 'israeli', 'singer-songwriter', 'folk-rock', 'rock']",0.0
+Yasuharu Takanashi,23,37.22,2.06,58,0,"['anime', 'soundtrack']",0.0
+Crazy Frog,2,63.5,3.03,58,0,"['electronic', 'dance', 'pop', 'techno', 'electronica']",0.0
+Evan Call,3,35.33,2.36,58,0,['anime'],0.0
+Besomorph,14,31.07,2.62,58,1,['slap house'],7.14
+Joy Again,2,38.0,2.99,58,0,"['pennsylvania', 'garage rock', 'usa', 'indie', 'pirate metal']",0.0
+KYLE,2,64.0,4.2,58,2,"['hip-hop', 'rap', 'acoustic', 'rnb', 'pop rap']",100.0
+Penelope Scott,2,63.0,3.79,58,2,"['singer-songwriter', 'female vocalist', 'usa', 'american', 'chiptune']",100.0
+Sir Chloe,4,14.0,3.03,58,0,"['indie rock', 'garage rock', 'alternative', 'indie', 'alternative rock']",0.0
+GAYLE,2,55.5,2.54,58,1,"['pop', 'usa', 'female vocalists', 'pop rock', 'upcoming album 2022']",50.0
+I DONT KNOW HOW BUT THEY FOUND ME,5,43.2,3.09,57,0,"['indie pop', 'synthpop', 'alternative rock', 'indie', 'indie rock']",0.0
+IDLES,3,14.67,3.6,57,1,"['post-punk', 'punk', 'noise rock']",33.33
+DRAM,2,60.0,3.75,57,2,"['trap', 'rnb', 'hip-hop', 'hip hop', 'pop rap']",100.0
+zandros,2,36.0,2.9,57,0,['dark r&b'],0.0
+Thom Yorke,5,42.6,4.34,57,1,"['electronic', 'experimental', 'alternative', 'indie', 'singer-songwriter']",20.0
+Lonestar,2,57.5,3.78,57,0,['country'],0.0
+Alan Silvestri,5,42.8,2.38,57,0,['soundtrack'],0.0
+Billie Marten,2,50.5,4.16,57,0,"['indie pop', 'folk', 'british', 'indie', 'singer-songwriter']",0.0
+Steve Jablonsky,6,44.17,4.1,57,0,['soundtrack'],0.0
+HEALTH,6,32.17,3.89,57,0,"['noise rock', 'industrial', 'witch house', 'industrial rock', 'industrial metal']",0.0
+Mimi Webb,2,53.5,2.69,57,0,"['pop', 'british', 'female vocalist', 'electropop', 'my top songs']",0.0
+PJ Harvey,5,49.6,3.52,57,0,"['art pop', 'singer-songwriter', 'alternative rock']",0.0
+Unlike Pluto,17,35.06,3.06,57,0,"['electronic', 'dubstep', 'all', 'pop', 'usa']",0.0
+Randy Houser,2,61.5,3.04,57,0,"['country', 'acoustic country']",0.0
+Umur Anil Gokdag,7,48.71,2.07,56,1,,14.29
+Marcin Przybyłowicz,10,47.9,2.35,56,0,"['medieval', 'soundtrack']",0.0
+Lorne Balfe,5,30.4,2.42,56,0,['soundtrack'],0.0
+Brett Eldredge,2,58.5,3.41,56,0,"['country', 'christmas']",0.0
+Brian Tyler,11,34.91,3.14,56,0,['soundtrack'],0.0
+Borislav Slavov,10,37.5,3.46,56,0,['medieval'],0.0
+Harry Gregson-Williams,6,48.5,2.67,56,0,['soundtrack'],0.0
+BANKS,2,47.0,3.02,56,2,"['electronic', 'downtempo', 'pop', 'female vocalists', 'indie']",100.0
+Chase Rice,2,56.0,3.8,56,1,"['country', 'acoustic country']",50.0
+Hiko,2,0.0,3.54,56,0,['nightcore'],0.0
+Jo Dee Messina,2,54.5,3.42,56,0,"['country', 'classic country']",0.0
+The Veronicas,3,46.0,3.23,55,0,,0.0
+Danit,4,40.0,6.38,55,0,"['acoustic', 'latin', 'usa', 'switzerland', 'spiritual']",0.0
+Wheeler Walker Jr.,2,52.5,2.8,55,2,"['outlaw country', 'country']",100.0
+Elvis Drew,8,54.75,2.95,55,1,['dark r&b'],12.5
+Daniel Di Angelo,2,58.0,3.11,55,2,['dark r&b'],100.0
+Westside Connection,2,57.5,4.16,55,2,"['west coast hip hop', 'g-funk', 'gangster rap', 'old school hip hop']",100.0
+Patrick Doyle,7,41.86,3.9,55,0,['soundtrack'],0.0
+Sonic Youth,2,46.5,5.84,55,0,"['noise rock', 'grunge', 'alternative rock', 'post-punk', 'shoegaze']",0.0
+Jesper Kyd,4,49.75,4.19,55,0,['soundtrack'],0.0
+Hilary Duff,3,42.67,3.47,55,0,"['pop', 'female vocalists', 'dance', 'hilary duff', 'rock']",0.0
+Nicholas Hooper,10,33.7,2.68,55,0,['soundtrack'],0.0
+SOFIA ISELLA,5,56.8,3.64,55,1,"['experimental', 'female vocalists', 'art pop', 'indie', 'american']",20.0
+Sam Fischer,2,63.5,3.25,55,0,"['pop', 'soul', 'australian', 'indie']",0.0
+Wafia,2,18.5,3.44,55,0,"['pop', 'soul', 'australian', 'indie pop', 'rnb']",0.0
+Sky Ferreira,13,34.38,4.01,54,0,"['pop', 'electropop', 'electronic', 'female vocalists', 'female vocalist']",0.0
+Nino Rota,3,51.0,3.19,54,0,,0.0
+Hayley Kiyoko,2,47.5,3.32,54,0,"['pop', 'indie', 'indie pop', 'female vocalists', 'alternative']",0.0
+Jessica Pratt,2,28.5,2.42,54,0,['ambient folk'],0.0
+DNA,2,66.0,3.8,54,0,,0.0
+Sugarland,2,44.0,3.85,54,0,['country'],0.0
+HRVY,2,57.0,3.06,54,0,"['pop', 'rnb', 'british', 'male vocalists', 'justin bieber']",0.0
+Darren Korb,2,38.0,2.84,54,0,['soundtrack'],0.0
+Cat Power,2,34.0,4.16,53,0,"['slowcore', 'singer-songwriter']",0.0
+Dorothy,2,44.5,3.47,53,0,['southern gothic'],0.0
+Aly & AJ,2,48.5,3.34,53,0,"['pop', 'female vocalists', 'pop rock', 'disney', 'rock']",0.0
+Henry Jackman,6,27.17,2.41,53,0,['soundtrack'],0.0
+Beneld,6,53.67,2.91,53,0,['dark r&b'],0.0
+Charlotte Lawrence,3,45.0,3.0,53,1,"['pop', 'indie pop', 'my top songs', 'female vocalists', 'american']",33.33
+El Waili,9,22.0,3.39,53,0,"['egyptian hip hop', 'arabic hip hop', 'egyptian pop', 'mahraganat']",0.0
+Bedroom,2,62.0,5.38,52,0,"['chillwave', 'ambient', 'lo-fi', 'folk', 'indie']",0.0
+Princess Chelsea,2,0.0,4.02,52,0,['baroque pop'],0.0
+Scouting For Girls,3,58.33,3.39,52,0,"['indie', 'british', 'indie pop', 'indie rock', 'alternative']",0.0
+RIELL,11,37.09,2.91,52,1,"['canadian', 'pop', 'female vocalists', 'canada', 'alt-pop']",9.09
+Gareth Coker,2,44.0,1.94,52,0,['soundtrack'],0.0
+Trevor Morris,5,27.4,2.36,52,0,"['medieval', 'soundtrack']",0.0
+Kevin Penkin,5,28.4,2.56,52,0,"['anime', 'soundtrack']",0.0
+Yaima,3,48.33,4.8,52,0,"['downtempo', 'dub', 'didjeridu', 'chillout', 'electronica']",0.0
+Nicholas Bonnin,2,60.5,3.88,52,2,['dark r&b'],100.0
+BURY,7,46.86,2.75,52,0,['dark r&b'],0.0
+Mark Mancina,2,25.5,2.08,52,0,"['soundtrack', 'instrumental', 'composer', 'anime', 'ost']",0.0
+Mikolai Stroinski,8,46.5,2.52,52,0,"['medieval', 'soundtrack']",0.0
+Yoshihisa Hirano,8,0.0,1.48,51,0,"['anime', 'soundtrack']",0.0
+Rosenfeld,3,20.67,2.82,51,0,['dark r&b'],0.0
+Johnning,3,36.0,3.17,51,0,,0.0
+Manu Pilas,2,61.5,2.13,51,0,"['pop', 'soundtrack', 'italy']",0.0
+KRS-One,2,57.0,4.62,51,1,"['east coast hip hop', 'old school hip hop', 'hip hop', 'hardcore hip hop']",50.0
+Allie X,2,25.0,3.4,51,0,"['synthpop', 'electropop', 'pop', 'canadian', 'dance-pop']",0.0
+Kae,4,21.75,2.77,50,2,['dark r&b'],50.0
+Tyler Bates,4,37.5,1.78,50,0,['soundtrack'],0.0
+David Arnold,2,19.5,2.5,50,0,['soundtrack'],0.0
+Jerry Goldsmith,2,43.0,2.34,50,0,['soundtrack'],0.0
+MOTHICA,2,0.0,2.7,50,2,"['pop', 'indie pop', 'indie', 'electropop', 'american']",100.0
+Lil God Dan,2,57.5,2.45,50,0,['cloud rap'],0.0
+Yutaka Yamada,2,31.5,2.44,50,0,['anime'],0.0
+Adam Hicks,2,58.5,3.38,50,0,"['pop', 'rap', 'electronic', 'dance', 'disney']",0.0
+Besomage,6,7.67,2.43,50,0,"['deep house', 'house', 'chill house']",0.0
+Mychael Danna,2,26.5,2.03,50,0,['soundtrack'],0.0
+Jana Diab,2,16.5,2.48,50,2,['egyptian pop'],100.0
+Jann,2,58.0,3.28,50,0,"['pop', 'polish', 'poland', 'indie', 'techno']",0.0
+daigoro789,2,0.0,2.63,50,0,"['piano', 'soundtrack', 'solo piano', 'instrumental', 'cinematic']",0.0
+Terence Blanchard,2,26.5,1.65,49,0,"['jazz', 'latin jazz']",0.0
+Son Lux,12,30.58,2.31,49,0,"['electronic', 'experimental', 'trip-hop', 'ambient', 'indie']",0.0
+JD & The Straight Chasers,11,47.91,2.96,49,0,,0.0
+Todrick Hall,2,0.0,3.39,49,0,"['pop', 'american idol', 'soul', 'rap', 'hip-hop']",0.0
+Woody Jackson,6,45.67,4.18,49,0,"['soundtrack', 'acoustic', 'instrumental', 'video game music', 'western']",0.0
+Dan Romer,2,48.0,3.26,49,0,['soundtrack'],0.0
+JLS,2,0.0,3.26,49,0,"['pop', 'rnb', 'british', 'x factor', 'boyband']",0.0
+Ashley Tisdale,2,34.0,2.98,49,0,"['pop', 'female vocalists', 'dance', 'disney', 'ashley tisdale']",0.0
+Last Call,4,53.75,2.52,49,0,"['pop punk', 'melodic punk', 'punk rock', 'hardcore', 'melodic hardcore']",0.0
+Morphine,2,43.5,2.02,49,0,"['rock', 'alternative rock', 'indie rock', 'jazz rock', 'blues rock', 'saxophone', 'low rock']",0.0
+Hiroaki Tsutsumi,2,35.5,4.22,49,0,['anime'],0.0
+Sonya Belousova,5,42.4,2.27,49,0,"['soundtrack', 'medieval']",0.0
+Piotr Musiał,4,38.25,3.26,49,0,['medieval'],0.0
+Sparky Deathcap,2,53.5,3.0,49,0,"['lo-fi', 'folk', 'indie pop', 'experimental', 'alternative folk']",0.0
+Flower Face,2,48.5,3.43,49,1,['ambient folk'],50.0
+Aaron Tippin,2,47.0,2.96,49,0,"['classic country', 'country', 'traditional country']",0.0
+Riff Raff,4,31.75,2.7,48,2,"['hip-hop', 'rap', 'heavy metal', 'progressive rock', 'hard rock']",50.0
+Rising Appalachia,2,28.5,6.68,48,0,['southern gothic'],0.0
+Percival Schuttenbach,3,45.67,2.23,48,0,"['medieval', 'folk metal']",0.0
+CADMIUM,3,36.67,2.65,48,1,"['symphonic metal', 'progressive metal', 'american', 'electronic', 'female fronted metal']",33.33
+Paris Hilton,3,27.67,3.36,48,0,"['pop', 'female vocalists', 'dance', 'sexy', 'american']",0.0
+Ghostemane,2,31.5,2.62,48,2,"['cloud rap', 'hip-hop', 'horrorcore', 'rap', 'trap metal']",100.0
+Stelvio Cipriani,2,30.0,3.0,48,0,"['composers', 'film music', 'motion picture music']",0.0
+Steven Price,2,26.0,2.72,48,0,['soundtrack'],0.0
+October Surprise,2,54.5,2.23,48,0,,0.0
+Mandrazo,3,44.33,3.02,48,0,,0.0
+MEG MYERS,2,36.0,4.06,48,1,"['indie rock', 'indie pop', 'female vocalists', 'rock', 'singer-songwriter']",50.0
+Rumelis,12,43.17,2.41,48,11,['dark r&b'],91.67
+Carlos Rafael Rivera,4,9.75,1.64,48,0,"['soundtrack', 'composer', 'usa', 'classical', 'liszaj radio']",0.0
+Austin Wintory,3,31.0,2.72,48,0,['soundtrack'],0.0
+MUSASHI PROJECT,3,52.33,3.01,48,0,['anime'],0.0
+GRLwood,2,0.0,2.97,48,1,"['riot grrrl', 'queercore']",50.0
+Tinariwen,2,47.0,4.69,47,0,['gnawa'],0.0
+John Paesano,4,45.0,2.56,47,0,['soundtrack'],0.0
+Daniel Lanois,8,45.38,3.52,47,0,"['singer-songwriter', 'folk', 'canadian', 'alternative', 'experimental']",0.0
+BRAN,2,1.0,1.74,47,0,"['afro house', 'slap house']",0.0
+Rhiannon Giddens,2,52.5,3.34,47,0,"['folk', 'americana', 'southern gothic', 'bluegrass']",0.0
+Sarah Schachner,2,23.5,2.84,47,0,['soundtrack'],0.0
+Revline,12,48.08,2.69,47,0,['country'],0.0
+A!MS,2,49.5,2.45,47,1,"['rap', 'hip hop', 'cypriot', 'united kingdom', 'cyprus']",50.0
+Rodrigo y Gabriela,2,19.5,5.67,47,0,"['acoustic', 'instrumental', 'guitar', 'flamenco', 'latin']",0.0
+Sugar Jesus,2,49.5,2.8,47,0,"['electronic', 'electropop', 'dance', 'electro', 'pop']",0.0
+Marc Streitenfeld,3,13.67,1.71,47,0,['soundtrack'],0.0
+Valve Studio Orchestra,3,0.0,1.2,46,0,"['soundtrack', 'valve', 'orchestral', 'tf2', 'gaming music']",0.0
+Minzie,2,25.0,2.6,46,0,['dark r&b'],0.0
+M|O|O|N,3,54.33,4.89,46,0,"['synthwave', 'vaporwave']",0.0
+Hildur Guðnadóttir,4,40.0,2.8,46,0,"['drone', 'neoclassical']",0.0
+Zummer,2,52.0,2.32,46,0,['happy hardcore'],0.0
+Alaina Castillo,2,38.0,3.64,46,0,"['pop', 'rnb', 'female vocalists', 'latin', 'united states']",0.0
+A2O,4,35.0,3.33,46,0,['c-pop'],0.0
+Kevin Kiner,3,34.0,1.56,45,0,['soundtrack'],0.0
+Link Wray,2,31.5,2.39,45,0,"['surf rock', 'rockabilly', 'proto-punk', 'native american music', 'psychobilly']",0.0
+lilster,2,0.0,3.37,45,0,['jersey club'],0.0
+K!llx,2,47.5,2.53,45,1,,50.0
+Carlie Hanson,2,46.0,2.68,45,1,"['pop', 'alternative', 'indie pop', 'usa', 'female vocalists']",50.0
+Natalie Holt,3,40.0,2.48,45,0,['soundtrack'],0.0
+Alexandra Savior,2,0.0,2.95,45,0,"['indie pop', 'singer-songwriter', 'indie', 'indie rock', 'female vocalists']",0.0
+Geoff Zanelli,3,32.0,3.08,45,0,"['soundtrack', 'composers', 'classical', 'instrumental', 'film music']",0.0
+Hanno,2,53.5,2.51,45,0,,0.0
+Ana Shine,4,50.25,2.9,45,0,"['latin ballad', 'spanish', 'española']",0.0
+carwash,2,0.0,2.54,44,2,"['indie', 'dream pop', 'lo-fi', 'usa', 'california']",100.0
+Neal Acree,2,0.5,5.94,44,0,"['soundtrack', 'video game music', 'instrumental', 'world of warcraft', 'score']",0.0
+Okay Kaya,2,29.5,2.16,43,2,['art pop'],100.0
+Jesse®,9,29.78,3.06,43,2,"['indie', 'pop', 'alternative', 'hip hop', 'jesse rutherford']",22.22
+Now O Later,3,21.67,2.58,43,0,['hypertechno'],0.0
+Pawel Blaszczak,2,43.5,3.15,43,0,['medieval'],0.0
+Jeremy Zuckerman,12,32.0,2.08,43,0,"['soundtrack', 'instrumental', 'composer', 'experimental', 'american']",0.0
+midnight Berlin,10,41.4,2.08,42,0,['hypertechno'],0.0
+Jeff Russo,5,24.6,3.07,42,0,['soundtrack'],0.0
+Einar Selvik,2,43.5,5.09,42,0,"['medieval', 'celtic']",0.0
+Heitor Pereira,2,27.5,2.15,42,0,"['soundtrack', 'composer', 'brazilian', 'contemporary classical', 'film score']",0.0
+Adam Skorupa,3,36.67,3.24,42,0,['medieval'],0.0
+Trevor Rabin,2,43.0,3.35,42,0,['soundtrack'],0.0
+Pinar Toprak,7,23.29,2.32,42,0,['soundtrack'],0.0
+Helena Deland,2,39.0,4.54,42,0,"['folk', 'singer-songwriter', 'canadian', 'indie', 'indie pop']",0.0
+Bill Brown,6,34.67,2.18,41,0,['medieval'],0.0
+chuck e. myers 'sea',2,39.0,3.04,41,0,"['composer', 'soundtrack', 'game', 'video game music', 'vgm']",0.0
+Ericovich,12,31.58,2.08,41,1,['nightcore'],8.33
+Daniel Licht,2,20.0,3.99,41,0,"['soundtrack', 'instrumental', 'ambient', 'composer', 'dexter']",0.0
+Nic Dean,4,39.25,2.3,41,1,['dark r&b'],25.0
+Atli Örvarsson,2,7.0,3.34,41,0,"['soundtrack', 'composer', 'score', 'film music', 'movie score composers']",0.0
+Emilio,3,34.33,2.42,41,0,['hypertechno'],0.0
+Emily Osment,2,41.0,2.66,41,0,"['pop', 'female vocalists', 'disney', 'pop rock', 'emily osment']",0.0
+ILURO,7,25.86,2.61,41,0,,0.0
+藤澤慶昌,2,21.0,2.26,40,0,['anime'],0.0
+Kelsey Lu,12,29.58,4.26,40,0,"['alternative r&b', 'art pop']",0.0
+Christopher Lennertz,3,28.33,2.16,40,0,"['soundtrack', 'instrumental', 'composer', 'video game music', 'classical']",0.0
+Elephant Revival,3,41.33,3.71,40,0,"['bluegrass', 'newgrass', 'folk', 'indie folk']",0.0
+Valentin,3,41.0,3.76,40,1,"['acoustic', 'japanese', 'instrumental hip-hop', 'alternative', 'brazilian']",33.33
+Cliff Martinez,3,37.67,1.72,40,0,['soundtrack'],0.0
+Bruklin,2,44.5,2.86,40,0,"['rock', 'pop', 'polish', 'poland', 'piotr krasko w swojej mazurskiej posiadlosci']",0.0
+Foxilitus,2,44.5,1.94,40,0,['electronic'],0.0
+League Minimum,3,39.67,2.46,40,0,"['electronic', 'synthpop', 'pop', 'british', 'new wave', 'uk', 'synth-pop', 'new romantic', 'english', 'england', 'sheffield', 'rock and indie', 'minimal synth', 'synthie/electro-pop']",0.0
+Shanin Blake,2,0.0,3.38,40,0,"['booba', 'pop', 'chill', 'singer-songwriter', 'relaxation']",0.0
+Jacob Tillberg,4,36.75,3.16,39,0,"['sweden', 'electro', 'hardstyle']",0.0
+Anna Calvi,3,31.67,3.98,39,0,"['female vocalists', 'indie', 'alternative', 'singer-songwriter', 'british']",0.0
+The Space Ocean,2,0.0,3.59,39,0,"['indie', 'rock', 'lo-fi', 'indie rock', 'sun and moon and stars and outer space']",0.0
+加藤達也,3,26.0,2.73,39,0,"['anime', 'soundtrack']",0.0
+Rob Grant,2,47.0,3.68,39,0,"['piano', 'jazz', 'instrumental', 'ambient', 'lana del rey']",0.0
+Hurricane on Saturn,6,29.5,3.78,39,3,"['rap metal', 'rap rock']",50.0
+Bill Elm,5,39.4,4.26,39,0,"['instrumental', 'soundtrack', 'composer', 'usa', 'video game']",0.0
+Savant,2,22.0,7.16,38,2,"['dubstep', 'drumstep']",100.0
+Jordana Bryant,2,41.5,2.52,38,0,"['pop', 'country', 'uk']",0.0
+Robin Carolan,5,30.4,1.38,38,0,"['soundtrack', 'score', 'british', 'folk', 'orchestral']",0.0
+CADDY,5,40.8,3.09,38,1,"['powerpop', 'power pop', 'norwegian', 'one-man band', 'norwegian powerpop']",20.0
+Jim Sturgess,4,33.25,2.1,38,0,"['soundtrack', 'british', 'across the universe', 'musical', 'rock']",0.0
+toon,4,28.25,1.19,37,0,['cabaret'],0.0
+David García Díaz,2,33.5,3.48,37,0,"['piano', 'spain', 'modern classical', 'classical', 'spanish']",0.0
+Sophie Thatcher,2,31.0,3.72,37,0,"['dream pop', 'chamber pop', 'sophisti-pop', 'art pop', 'pop']",0.0
+Sandra Iris,2,41.0,2.42,37,0,"['indie pop', 'female vocalists', '4', 'spotify']",0.0
+Greg Edmonson,2,21.0,1.82,37,0,['soundtrack'],0.0
+Dreyma,3,33.67,2.7,37,0,"['ambient', 'swedish', 'post-rock', 'instrumental', 'new age']",0.0
+MarchY,3,47.0,2.74,37,0,,0.0
+Tenseoh,2,0.0,2.9,37,0,['lithuania'],0.0
+Geneburn,2,36.0,4.74,36,0,"['soundtrack', 'industrial', 'ambient', 'metal', 'instrumental']",0.0
+davvn,2,43.0,3.12,36,1,"['electronic', 'indie', 'dreamy', 'chill', 'chillwave']",50.0
+Scoobert Doobert,2,46.0,3.0,36,0,"['alternative', 'indie rock', 'lo-fi', 'rock', 'indie']",0.0
+009 Sound System,2,34.5,5.62,36,0,"['trance', 'electronic', 'dance', 'pop', 'sexy']",0.0
+Xander Ward,5,41.0,3.21,35,0,"['downtempo', 'instrumental', 'hip hop', 'lo-fi', 'boom bap', 'chillwave', 'instrumental hip hop', 'lo-fi hip hop']",0.0
+Chelan,2,40.5,2.41,35,1,"['electronic', 'ambient', 'usa', 'indie pop', 'san francisco']",50.0
+Teddy,2,26.5,3.3,35,2,['emo rap'],100.0
+Beyond The Guitar,6,0.0,2.59,35,0,"['video game music', 'guitar', 'usa']",0.0
+Jordan Parker,2,37.0,3.43,34,0,,0.0
+GOVAN,4,37.75,2.63,34,1,"['rock', 'instrumental', 'jazz rock', 'jazz fusion']",25.0
+Anna Marx,3,38.0,2.39,34,0,,0.0
+The Relentless,2,0.0,3.72,34,0,,0.0
+King Gizzard & The Lizard Wizard,3,10.67,6.11,34,0,"['neo-psychedelic', 'psychedelic rock']",0.0
+Chance Thomas,2,31.5,2.76,34,0,['medieval'],0.0
+Lil Q,2,46.5,2.6,33,2,,100.0
+Dana Fuchs,3,28.0,2.5,33,0,"['female vocalists', 'soundtrack', 'classic rock', 'across the universe', 'musical']",0.0
+Will Roush,3,41.67,3.08,33,0,"['rap', 'hip hop', 'hip-hop', 'american', 'us']",0.0
+Joe Anderson,2,40.0,3.44,33,0,"['soundtrack', 'across the universe', 'musical', 'classic rock', 'beatles']",0.0
+Nck,2,44.5,2.22,32,0,"['rap', 'house', 'hip-hop', 'gangsta rap', 'deep house']",0.0
+IAN SIZE,4,32.5,2.47,32,2,"['melodic bass', 'nightcore', 'bass music']",50.0
+AZERDK,2,31.5,4.06,30,1,,50.0
+Sopperior,4,25.5,1.77,30,0,['indie'],0.0
+I Hear Sirens,3,29.33,4.85,30,0,['post-rock'],0.0
+Gary O'Slide,10,20.0,2.46,30,0,['southern gothic'],0.0
+BONZIE,2,34.5,3.52,30,0,"['indie', 'singer-songwriter', 'indie pop', 'indie rock', 'listened']",0.0
+weeklyn,3,21.33,2.42,30,1,['emo rap'],33.33
+Christine Slagman,2,26.5,2.94,28,0,['video game music'],0.0
+Laci Kay Somers,3,33.0,3.75,28,2,"['pop', 'female vocalist', 'electronic', 'dance', 'britney spears']",66.67
+Jamie Christopherson,2,16.0,2.27,28,0,"['soundtrack', 'video game music', 'composer', 'all', 'video game']",0.0
+Kenzo Cregan,2,39.5,3.17,27,0,"['american', 'usa']",0.0
+Jesse Hopkins,4,27.0,1.92,27,0,['medieval'],0.0
+Entheogenic,2,9.5,7.92,27,0,"['downtempo', 'ambient', 'psytrance']",0.0
+Cabuizee,2,23.0,2.22,25,0,['electro house'],0.0
+NEVE,2,28.0,2.55,25,0,"['alternative rock', 'rock', 'alternative', '90s', '90s alternative']",0.0
+Munboi,2,34.0,2.35,24,0,,0.0
+YGF DEVO,3,34.0,3.23,24,3,"['rock', 'electronic', 'synthpop', 'punk', 'american', 'punk rock', 'post-punk', 'new wave', 'synth-pop', 'experimental rock', 'electropunk', 'geek rock', 'art punk', 'nerd rock', 'classic pop and rock', 'proto-punk', 'electronic rock', 'zolo', 'synth-punk', 'weird america']",100.0
+LEROCQUE,2,32.5,2.75,23,0,"['lerocque', 'music', 'alternative', 'vox', 'singer', 'vocals', 'rock', 'pop', 'sing', 'band']",0.0
+Project North,2,19.0,3.06,23,0,['uk grime'],0.0
+Shelita,2,32.5,3.58,23,0,"['pop', 'r and b', 'brazilian funk', 'electro pop', 'future bass']",0.0
+Fransii,2,21.5,2.42,21,0,['nightcore'],0.0
+Elliot,2,25.5,3.05,20,2,"['indie', 'rock', 'britpop', 'pop', 'danish']",100.0
+NO FEELS,2,25.5,2.63,19,0,['deep house'],0.0
+Peter Nashel,2,27.5,2.13,18,0,['medieval'],0.0
+Allison Amber Hage,3,25.0,2.79,18,0,,0.0
+Joe Henson,2,24.0,3.32,17,0,['sea shanties'],0.0
+Precedence,2,30.0,3.66,17,2,,100.0
+shotty,2,20.0,3.78,11,0,"['rock', 'grunge', 'psychedelic', 'alt rock', 'hip hop']",0.0
+DJ Khamel,7,8.86,2.72,8,0,,0.0
+MARA,2,16.0,3.99,8,0,"['black metal', 'dark ambient', 'depressive black metal', 'drone', 'hardcore']",0.0
+Reginaldo de Oliveira,2,15.0,4.18,5,0,,0.0
+MONYQ,2,13.5,5.07,4,0,,0.0
+Daya Blaze,5,3.8,3.42,2,1,"['synthpop', 'pop', 'electropop', '2010s', 'gen z']",20.0
+Jeremiah Sand,2,4.5,6.52,2,0,"['psychedelic folk', 'psychedelic', 'fictional artist', 'folk', 'neofolk']",0.0
+Bill Elm & Woody Jackson,3,0.0,3.64,0,0,,0.0
+David Arnold & Michael Price,2,0.0,2.18,0,0,"['soundtrack', 'british', 'instrumental', 'classical', 'sherlock']",0.0
